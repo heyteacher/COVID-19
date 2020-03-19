@@ -1,10 +1,10 @@
-# COVID-19
+# Estensione non ufficiale COVID-19
 
-aggiunta campi calcolati sui dati in formato JSON di pcd/COVID-19
+Repository non ufficiale con estensioni calcolate sui dati JSON forniti da https://github.com/pcm-dpc/COVID-19
 
 ## Formato dei dati
 
-Rispetto ai dati ufficiali JSON di pcd/COVID-19 sono aggiunti i seguenti campi:
+Rispetto ai dati ufficiali JSON di pcm-dpc/COVID-19 sono presenti i seguenti campi per ogni giorno:
 
 ### Dati Nazionali e Dati per Regione
 
@@ -31,3 +31,8 @@ Rispetto ai dati ufficiali JSON di pcd/COVID-19 sono aggiunti i seguenti campi:
 |-----------------------------|-------------------------------------------|--------------------|----------|
 | **totale_nuovi_casi**       | Nuovi casi rispetto ieri                  |                    | Numero   |
 | **totale_casi_ieri**        | Totale casi di ieri                       |                    | Numero   |
+
+
+## Dashboard
+
+https://heyteacher.github.io/COVID-19/ è una dashboard basata su questi dati estesi
