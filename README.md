@@ -8,7 +8,7 @@ Rispetto ai dati ufficiali JSON di pcm-dpc/COVID-19 sono presenti i seguenti cam
 
 ### Dati Nazionali e Dati per Regione
 
-**File complessivi:** `json-data/dpc-covid19-ita-nazionale.csv`, `json-data/dpc-covid19-ita-regioni.csv` 
+**File complessivi:** `json-data/dpc-covid19-ita-andamento-nazionale.csv`, `json-data/dpc-covid19-ita-regioni.csv` 
 
 
 | Nome campo                  | Descrizione                               | Description        | Formato  |
