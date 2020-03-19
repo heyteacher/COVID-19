@@ -8,10 +8,11 @@ Rispetto ai dati ufficiali JSON di pcd/COVID-19 sono aggiunti i seguenti campi:
 
 ### Dati Nazionali e Dati per Regione
 
-**File complessivi:** dpc-covid19-ita-nazionale.csv, dpc-covid19-ita-regioni.csv 
+**File complessivi:** `json-data/dpc-covid19-ita-nazionale.csv`, `json-data/dpc-covid19-ita-regioni.csv` 
+
 
 | Nome campo                  | Descrizione                               | Description        | Formato  |
-|-----------------------------|-------------------------------------------|-------------------------------|
+|-----------------------------|-------------------------------------------|--------------------|----------|
 | **totale_nuovi_casi**       | Nuovi casi rispetto ieri                  |                    | Numero   |
 | **totale_casi_ieri**        | Totale casi di ieri                       |                    | Numero   |
 | **nuovi_dimessi_guariti**   | Nuovi dimessi guariti rispetto ieri       |                    | Numero   |
@@ -23,9 +24,10 @@ Rispetto ai dati ufficiali JSON di pcd/COVID-19 sono aggiunti i seguenti campi:
 
 ### Dati per Provincia
 
-**File complessivi:** dpc-covid19-ita-province.csv 
+**File complessivo:** `json-data/dpc-covid19-ita-province.csv` 
+
 
 | Nome campo                  | Descrizione                               | Description        | Formato  |
-|-----------------------------|-------------------------------------------|-------------------------------|
+|-----------------------------|-------------------------------------------|--------------------|----------|
 | **totale_nuovi_casi**       | Nuovi casi rispetto ieri                  |                    | Numero   |
 | **totale_casi_ieri**        | Totale casi di ieri                       |                    | Numero   |
