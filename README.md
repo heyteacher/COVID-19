@@ -1,4 +1,4 @@
-# Estensione non ufficiale ati JSON di COVID-19 Italia
+# Estensione non ufficiale dati JSON di COVID-19 Italia
 
 Repository non ufficiale con estensioni calcolate sui dati JSON forniti da https://github.com/pcm-dpc/COVID-19
 
