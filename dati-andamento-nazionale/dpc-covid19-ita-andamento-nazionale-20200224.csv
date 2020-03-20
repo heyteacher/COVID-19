@@ -1,0 +1,2 @@
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,totale_casi_ieri,totale_nuovi_casi,dimessi_guariti_ieri,nuovi_dimessi_guariti,deceduti_ieri,nuovi_deceduti,terapia_intensiva_ieri,nuovi_terapia_intensiva
+2020-02-24 18:00:00,ITA,101,26,127,94,221,221,1,7,229,4324,0,229,0,1,0,7,0,26
