@@ -1,14 +1,30 @@
-# Estensione non ufficiale dati JSON di COVID-19 Italia
+# Estensione non ufficiale dati CSV e JSON di COVID-19 Italia
 
-Repository non ufficiale con estensioni calcolate sui dati JSON forniti da https://github.com/pcm-dpc/COVID-19
+Repository non ufficiale con estensioni calcolate sui dati CSV e JSON forniti da https://github.com/pcm-dpc/COVID-19
 
 ## Formato dei dati
 
-Rispetto ai dati ufficiali JSON di pcm-dpc/COVID-19 sono presenti i seguenti campi per ogni giorno:
+Rispetto ai dati ufficiali di pcm-dpc/COVID-19 sono presenti i seguenti campi per ogni giorno:
 
 ### Dati Nazionali e Dati per Regione
 
-**File complessivi:** `json-data/dpc-covid19-ita-andamento-nazionale.csv`, `json-data/dpc-covid19-ita-regioni.csv` 
+**File complessivi CSV:** 
+* `dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv` 
+* `dati-regioni/dpc-covid19-ita-regioni.csv`
+
+**File complessivi JSON:** 
+* `json-data/dpc-covid19-ita-andamento-nazionale.json`
+* `json-data/dpc-covid19-ita-regioni.json` 
+
+**File giornalieri CSV:** 
+* `dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale-{YYYYMMDD}.csv` 
+* `dati-regioni/dpc-covid19-ita-regioni-{YYYYMMDD}.csv`
+* `dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale-latest.csv` 
+* `dati-regioni/dpc-covid19-ita-regioni-latest.csv`
+
+**File giornalieri JSON:** 
+* `json-data/dpc-covid19-ita-andamento-nazionale-latest.json`
+* `json-data/dpc-covid19-ita-regioni-json.json` 
 
 
 | Nome campo                  | Descrizione                               | Description        | Formato  |
@@ -24,7 +40,18 @@ Rispetto ai dati ufficiali JSON di pcm-dpc/COVID-19 sono presenti i seguenti cam
 
 ### Dati per Provincia
 
-**File complessivo:** `json-data/dpc-covid19-ita-province.csv` 
+**File complessivo CSV:** 
+* `dati-province/dpc-covid19-ita-province.csv` 
+
+**File complessivo JSON:** 
+* `json-data/dpc-covid19-ita-province.json` 
+
+**File giornalieri CSV:** 
+* `dati-province/dpc-covid19-ita-province-{YYYYMMDD}.csv` 
+* `dati-province/dpc-covid19-ita-province-latest.csv` 
+
+**File giornaliero JSON:** 
+* `json-data/dpc-covid19-ita-province-latest.json` 
 
 
 | Nome campo                  | Descrizione                               | Description        | Formato  |
