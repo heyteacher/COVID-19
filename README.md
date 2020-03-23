@@ -1,10 +1,16 @@
-# Estensione non ufficiale dati CSV e JSON di COVID-19 Italia
+# Estensione non ufficiale dati CSV e JSON di COVID-19 Italia + AWS Forecast
 
-Repository non ufficiale con estensioni calcolate sui dati CSV e JSON forniti da https://github.com/pcm-dpc/COVID-19
+Il Repository contiene: 
+
+* estensioni calcolate sui dati CSV e JSON forniti da https://github.com/pcm-dpc/COVID-19 
+* generazione di __forecast__ su __nuovi casi__ sulla _time series regionale_ tramite https://aws.amazon.com/forecast/ (_Perform AutoML_).
+* __forecast__ nazionale calcolato come aggregazione del __forecast__ di __nuovi_casi__ regionale
+
+I dati JSON di questo repository sono utilizzati per la realizzazione della dashboard COVID-19 Italia 
+https://heyteacher.github.io/COVID-19/ 
+
 
 ## Formato dei dati
-
-Rispetto ai dati ufficiali di pcm-dpc/COVID-19 sono presenti i seguenti campi per ogni giorno:
 
 ### Dati Nazionali e Dati per Regione
 
@@ -26,7 +32,6 @@ Rispetto ai dati ufficiali di pcm-dpc/COVID-19 sono presenti i seguenti campi pe
 * `json-data/dpc-covid19-ita-andamento-nazionale-latest.json`
 * `json-data/dpc-covid19-ita-regioni-json.json` 
 
-
 | Nome campo                  | Descrizione                               | Description        | Formato  |
 |-----------------------------|-------------------------------------------|--------------------|----------|
 | **totale_nuovi_casi**       | Nuovi casi rispetto ieri                  |                    | Numero   |
@@ -37,6 +42,7 @@ Rispetto ai dati ufficiali di pcm-dpc/COVID-19 sono presenti i seguenti campi pe
 | **deceduti_ieri**           | Totale decetuti di ieri                   |                    | Numero   |
 | **nuovi_terapia_intensiva** | Nuovi in terapia insensiva rispetto ieri  |                    | Numero   |
 | **terapia_intensiva_ieri**  | Totale in terapia intensiva ieri          |                    | Numero   |
+
 
 ### Dati per Provincia
 
@@ -53,13 +59,29 @@ Rispetto ai dati ufficiali di pcm-dpc/COVID-19 sono presenti i seguenti campi pe
 **File giornaliero JSON:** 
 * `json-data/dpc-covid19-ita-province-latest.json` 
 
-
 | Nome campo                  | Descrizione                               | Description        | Formato  |
 |-----------------------------|-------------------------------------------|--------------------|----------|
 | **totale_nuovi_casi**       | Nuovi casi rispetto ieri                  |                    | Numero   |
 | **totale_casi_ieri**        | Totale casi di ieri                       |                    | Numero   |
 
 
-## Dashboard
+### Dati Forecast Nazionale
 
-https://heyteacher.github.io/COVID-19/ è una dashboard basata su questi dati estesi
+**File complessivo JSON:** 
+* `dati-json-forecast/covid19-ita-andamento-nazionale-forecast.json` 
+
+| Nome campo                  | Descrizione                               | Description        | Formato     |
+|-----------------------------|-------------------------------------------|--------------------|-------------|
+| **date**                    | Nuovi casi rispetto ieri                  |                    | Timestamp   |
+| **p90**                     | previsione nuovi casi(quantile loss 90%)  |                    | Float       |
+
+### Dati Forecast Regionale
+
+**File complessivo JSON:** 
+* `dati-json-forecast/covid19-ita-andamento-nazionale-forecast.json` 
+
+| Nome campo                  | Descrizione                               | Description        | Formato     |
+|-----------------------------|-------------------------------------------|--------------------|-------------|
+| **item_id**                 | Denominazio Regione                       |                    | Timestamp   |
+| **date**                    | Nuovi casi rispetto ieri                  |                    | Timestamp   |
+| **p90**                     | previsione nuovi casi  (quantile loss 90%)|                    | Float       |
