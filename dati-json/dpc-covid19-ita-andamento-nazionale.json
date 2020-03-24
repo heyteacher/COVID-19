@@ -614,5 +614,27 @@
         "nuovi_deceduti": 651,
         "terapia_intensiva_ieri": 2857,
         "nuovi_terapia_intensiva": 152
+    },
+    {
+        "data": "2020-03-23 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 20692,
+        "terapia_intensiva": 3204,
+        "totale_ospedalizzati": 23896,
+        "isolamento_domiciliare": 26522,
+        "totale_attualmente_positivi": 50418,
+        "nuovi_attualmente_positivi": 3780,
+        "dimessi_guariti": 7432,
+        "deceduti": 6077,
+        "totale_casi": 63927,
+        "tamponi": 275468,
+        "totale_casi_ieri": 59138,
+        "totale_nuovi_casi": 4789,
+        "dimessi_guariti_ieri": 7024,
+        "nuovi_dimessi_guariti": 408,
+        "deceduti_ieri": 5476,
+        "nuovi_deceduti": 601,
+        "terapia_intensiva_ieri": 3009,
+        "nuovi_terapia_intensiva": 195
     }
 ]
