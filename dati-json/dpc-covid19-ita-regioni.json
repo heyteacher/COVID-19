@@ -18198,33 +18198,5 @@
         "nuovi_deceduti": 5,
         "terapia_intensiva_ieri": 20,
         "nuovi_terapia_intensiva": 5
-    },
-    {
-        "data": "2020-03-25T17:00:00",
-        "stato": "ITA",
-        "codice_regione": 5,
-        "denominazione_regione": "Veneto",
-        "lat": 45.43490485,
-        "long": 12.33845213,
-        "ricoverati_con_sintomi": 1407,
-        "terapia_intensiva": 316,
-        "totale_ospedalizzati": 1723,
-        "isolamento_domiciliare": 4022,
-        "totale_attualmente_positivi": 5745,
-        "nuovi_attualmente_positivi": 394,
-        "dimessi_guariti": 439,
-        "deceduti": 258,
-        "totale_casi": 6442,
-        "tamponi": 70877,
-        "note_it": "",
-        "note_en": "",
-        "totale_casi_ieri": 5948,
-        "totale_nuovi_casi": 494,
-        "dimessi_guariti_ieri": 381,
-        "nuovi_dimessi_guariti": 58,
-        "deceduti_ieri": 216,
-        "nuovi_deceduti": 42,
-        "terapia_intensiva_ieri": 304,
-        "nuovi_terapia_intensiva": 12
     }
 ]
