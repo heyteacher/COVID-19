@@ -1,6 +1,6 @@
 [
     {
-        "data": "2020-02-24 18:00:00",
+        "data": "2020-02-24T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 101,
         "terapia_intensiva": 26,
@@ -12,6 +12,8 @@
         "deceduti": 7,
         "totale_casi": 229,
         "tamponi": 4324,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 0,
         "totale_nuovi_casi": 229,
         "dimessi_guariti_ieri": 0,
@@ -22,7 +24,7 @@
         "nuovi_terapia_intensiva": 26
     },
     {
-        "data": "2020-02-25 18:00:00",
+        "data": "2020-02-25T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 114,
         "terapia_intensiva": 35,
@@ -34,6 +36,8 @@
         "deceduti": 10,
         "totale_casi": 322,
         "tamponi": 8623,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 229,
         "totale_nuovi_casi": 93,
         "dimessi_guariti_ieri": 1,
@@ -44,7 +48,7 @@
         "nuovi_terapia_intensiva": 9
     },
     {
-        "data": "2020-02-26 18:00:00",
+        "data": "2020-02-26T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 128,
         "terapia_intensiva": 36,
@@ -56,6 +60,8 @@
         "deceduti": 12,
         "totale_casi": 400,
         "tamponi": 9587,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 322,
         "totale_nuovi_casi": 78,
         "dimessi_guariti_ieri": 1,
@@ -66,7 +72,7 @@
         "nuovi_terapia_intensiva": 1
     },
     {
-        "data": "2020-02-27 18:00:00",
+        "data": "2020-02-27T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 248,
         "terapia_intensiva": 56,
@@ -78,6 +84,8 @@
         "deceduti": 17,
         "totale_casi": 650,
         "tamponi": 12014,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 400,
         "totale_nuovi_casi": 250,
         "dimessi_guariti_ieri": 3,
@@ -88,7 +96,7 @@
         "nuovi_terapia_intensiva": 20
     },
     {
-        "data": "2020-02-28 18:00:00",
+        "data": "2020-02-28T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 345,
         "terapia_intensiva": 64,
@@ -100,6 +108,8 @@
         "deceduti": 21,
         "totale_casi": 888,
         "tamponi": 15695,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 650,
         "totale_nuovi_casi": 238,
         "dimessi_guariti_ieri": 45,
@@ -110,7 +120,7 @@
         "nuovi_terapia_intensiva": 8
     },
     {
-        "data": "2020-02-29 18:00:00",
+        "data": "2020-02-29T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 401,
         "terapia_intensiva": 105,
@@ -122,6 +132,8 @@
         "deceduti": 29,
         "totale_casi": 1128,
         "tamponi": 18661,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 888,
         "totale_nuovi_casi": 240,
         "dimessi_guariti_ieri": 46,
@@ -132,7 +144,7 @@
         "nuovi_terapia_intensiva": 41
     },
     {
-        "data": "2020-03-01 18:00:00",
+        "data": "2020-03-01T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 639,
         "terapia_intensiva": 140,
@@ -144,6 +156,8 @@
         "deceduti": 34,
         "totale_casi": 1694,
         "tamponi": 21127,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 1128,
         "totale_nuovi_casi": 566,
         "dimessi_guariti_ieri": 50,
@@ -154,7 +168,7 @@
         "nuovi_terapia_intensiva": 35
     },
     {
-        "data": "2020-03-02 18:00:00",
+        "data": "2020-03-02T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 742,
         "terapia_intensiva": 166,
@@ -166,6 +180,8 @@
         "deceduti": 52,
         "totale_casi": 2036,
         "tamponi": 23345,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 1694,
         "totale_nuovi_casi": 342,
         "dimessi_guariti_ieri": 83,
@@ -176,7 +192,7 @@
         "nuovi_terapia_intensiva": 26
     },
     {
-        "data": "2020-03-03 18:00:00",
+        "data": "2020-03-03T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 1034,
         "terapia_intensiva": 229,
@@ -188,6 +204,8 @@
         "deceduti": 79,
         "totale_casi": 2502,
         "tamponi": 25856,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 2036,
         "totale_nuovi_casi": 466,
         "dimessi_guariti_ieri": 149,
@@ -198,7 +216,7 @@
         "nuovi_terapia_intensiva": 63
     },
     {
-        "data": "2020-03-04 18:00:00",
+        "data": "2020-03-04T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 1346,
         "terapia_intensiva": 295,
@@ -210,6 +228,8 @@
         "deceduti": 107,
         "totale_casi": 3089,
         "tamponi": 29837,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 2502,
         "totale_nuovi_casi": 587,
         "dimessi_guariti_ieri": 160,
@@ -220,7 +240,7 @@
         "nuovi_terapia_intensiva": 66
     },
     {
-        "data": "2020-03-05 18:00:00",
+        "data": "2020-03-05T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 1790,
         "terapia_intensiva": 351,
@@ -232,6 +252,8 @@
         "deceduti": 148,
         "totale_casi": 3858,
         "tamponi": 32362,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 3089,
         "totale_nuovi_casi": 769,
         "dimessi_guariti_ieri": 276,
@@ -242,7 +264,7 @@
         "nuovi_terapia_intensiva": 56
     },
     {
-        "data": "2020-03-06 18:00:00",
+        "data": "2020-03-06T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 2394,
         "terapia_intensiva": 462,
@@ -254,6 +276,8 @@
         "deceduti": 197,
         "totale_casi": 4636,
         "tamponi": 36359,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 3858,
         "totale_nuovi_casi": 778,
         "dimessi_guariti_ieri": 414,
@@ -264,7 +288,7 @@
         "nuovi_terapia_intensiva": 111
     },
     {
-        "data": "2020-03-07 18:00:00",
+        "data": "2020-03-07T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 2651,
         "terapia_intensiva": 567,
@@ -276,6 +300,8 @@
         "deceduti": 233,
         "totale_casi": 5883,
         "tamponi": 42062,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 4636,
         "totale_nuovi_casi": 1247,
         "dimessi_guariti_ieri": 523,
@@ -286,7 +312,7 @@
         "nuovi_terapia_intensiva": 105
     },
     {
-        "data": "2020-03-08 18:00:00",
+        "data": "2020-03-08T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 3557,
         "terapia_intensiva": 650,
@@ -298,6 +324,8 @@
         "deceduti": 366,
         "totale_casi": 7375,
         "tamponi": 49937,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 5883,
         "totale_nuovi_casi": 1492,
         "dimessi_guariti_ieri": 589,
@@ -308,7 +336,7 @@
         "nuovi_terapia_intensiva": 83
     },
     {
-        "data": "2020-03-09 18:00:00",
+        "data": "2020-03-09T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 4316,
         "terapia_intensiva": 733,
@@ -320,6 +348,8 @@
         "deceduti": 463,
         "totale_casi": 9172,
         "tamponi": 53826,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 7375,
         "totale_nuovi_casi": 1797,
         "dimessi_guariti_ieri": 622,
@@ -330,7 +360,7 @@
         "nuovi_terapia_intensiva": 83
     },
     {
-        "data": "2020-03-10 18:00:00",
+        "data": "2020-03-10T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 5038,
         "terapia_intensiva": 877,
@@ -342,6 +372,8 @@
         "deceduti": 631,
         "totale_casi": 10149,
         "tamponi": 60761,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 9172,
         "totale_nuovi_casi": 977,
         "dimessi_guariti_ieri": 724,
@@ -352,7 +384,7 @@
         "nuovi_terapia_intensiva": 144
     },
     {
-        "data": "2020-03-11 17:00:00",
+        "data": "2020-03-11T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 5838,
         "terapia_intensiva": 1028,
@@ -364,6 +396,8 @@
         "deceduti": 827,
         "totale_casi": 12462,
         "tamponi": 73154,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 10149,
         "totale_nuovi_casi": 2313,
         "dimessi_guariti_ieri": 1004,
@@ -374,7 +408,7 @@
         "nuovi_terapia_intensiva": 151
     },
     {
-        "data": "2020-03-12 17:00:00",
+        "data": "2020-03-12T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 6650,
         "terapia_intensiva": 1153,
@@ -386,6 +420,8 @@
         "deceduti": 1016,
         "totale_casi": 15113,
         "tamponi": 86011,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 12462,
         "totale_nuovi_casi": 2651,
         "dimessi_guariti_ieri": 1045,
@@ -396,7 +432,7 @@
         "nuovi_terapia_intensiva": 125
     },
     {
-        "data": "2020-03-13 17:00:00",
+        "data": "2020-03-13T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 7426,
         "terapia_intensiva": 1328,
@@ -408,6 +444,8 @@
         "deceduti": 1266,
         "totale_casi": 17660,
         "tamponi": 97488,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 15113,
         "totale_nuovi_casi": 2547,
         "dimessi_guariti_ieri": 1258,
@@ -418,7 +456,7 @@
         "nuovi_terapia_intensiva": 175
     },
     {
-        "data": "2020-03-14 17:00:00",
+        "data": "2020-03-14T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 8372,
         "terapia_intensiva": 1518,
@@ -430,6 +468,8 @@
         "deceduti": 1441,
         "totale_casi": 21157,
         "tamponi": 109170,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 17660,
         "totale_nuovi_casi": 3497,
         "dimessi_guariti_ieri": 1439,
@@ -440,7 +480,7 @@
         "nuovi_terapia_intensiva": 190
     },
     {
-        "data": "2020-03-15 17:00:00",
+        "data": "2020-03-15T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 9663,
         "terapia_intensiva": 1672,
@@ -452,6 +492,8 @@
         "deceduti": 1809,
         "totale_casi": 24747,
         "tamponi": 124899,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 21157,
         "totale_nuovi_casi": 3590,
         "dimessi_guariti_ieri": 1966,
@@ -462,7 +504,7 @@
         "nuovi_terapia_intensiva": 154
     },
     {
-        "data": "2020-03-16 17:00:00",
+        "data": "2020-03-16T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 11025,
         "terapia_intensiva": 1851,
@@ -474,6 +516,8 @@
         "deceduti": 2158,
         "totale_casi": 27980,
         "tamponi": 137962,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 24747,
         "totale_nuovi_casi": 3233,
         "dimessi_guariti_ieri": 2335,
@@ -484,7 +528,7 @@
         "nuovi_terapia_intensiva": 179
     },
     {
-        "data": "2020-03-17 17:00:00",
+        "data": "2020-03-17T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 12894,
         "terapia_intensiva": 2060,
@@ -496,6 +540,8 @@
         "deceduti": 2503,
         "totale_casi": 31506,
         "tamponi": 148657,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 27980,
         "totale_nuovi_casi": 3526,
         "dimessi_guariti_ieri": 2749,
@@ -506,7 +552,7 @@
         "nuovi_terapia_intensiva": 209
     },
     {
-        "data": "2020-03-18 17:00:00",
+        "data": "2020-03-18T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 14363,
         "terapia_intensiva": 2257,
@@ -518,6 +564,8 @@
         "deceduti": 2978,
         "totale_casi": 35713,
         "tamponi": 165541,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 31506,
         "totale_nuovi_casi": 4207,
         "dimessi_guariti_ieri": 2941,
@@ -528,7 +576,7 @@
         "nuovi_terapia_intensiva": 197
     },
     {
-        "data": "2020-03-19 17:00:00",
+        "data": "2020-03-19T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 15757,
         "terapia_intensiva": 2498,
@@ -540,6 +588,8 @@
         "deceduti": 3405,
         "totale_casi": 41035,
         "tamponi": 182777,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 35713,
         "totale_nuovi_casi": 5322,
         "dimessi_guariti_ieri": 4025,
@@ -550,7 +600,7 @@
         "nuovi_terapia_intensiva": 241
     },
     {
-        "data": "2020-03-20 17:00:00",
+        "data": "2020-03-20T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 16020,
         "terapia_intensiva": 2655,
@@ -562,6 +612,8 @@
         "deceduti": 4032,
         "totale_casi": 47021,
         "tamponi": 206886,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 41035,
         "totale_nuovi_casi": 5986,
         "dimessi_guariti_ieri": 4440,
@@ -572,7 +624,7 @@
         "nuovi_terapia_intensiva": 157
     },
     {
-        "data": "2020-03-21 17:00:00",
+        "data": "2020-03-21T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 17708,
         "terapia_intensiva": 2857,
@@ -584,6 +636,8 @@
         "deceduti": 4825,
         "totale_casi": 53578,
         "tamponi": 233222,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 47021,
         "totale_nuovi_casi": 6557,
         "dimessi_guariti_ieri": 5129,
@@ -594,7 +648,7 @@
         "nuovi_terapia_intensiva": 202
     },
     {
-        "data": "2020-03-22 17:00:00",
+        "data": "2020-03-22T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 19846,
         "terapia_intensiva": 3009,
@@ -606,6 +660,8 @@
         "deceduti": 5476,
         "totale_casi": 59138,
         "tamponi": 258402,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 53578,
         "totale_nuovi_casi": 5560,
         "dimessi_guariti_ieri": 6072,
@@ -616,7 +672,7 @@
         "nuovi_terapia_intensiva": 152
     },
     {
-        "data": "2020-03-23 17:00:00",
+        "data": "2020-03-23T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 20692,
         "terapia_intensiva": 3204,
@@ -628,6 +684,8 @@
         "deceduti": 6077,
         "totale_casi": 63927,
         "tamponi": 275468,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 59138,
         "totale_nuovi_casi": 4789,
         "dimessi_guariti_ieri": 7024,
@@ -638,7 +696,7 @@
         "nuovi_terapia_intensiva": 195
     },
     {
-        "data": "2020-03-24 17:00:00",
+        "data": "2020-03-24T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 21937,
         "terapia_intensiva": 3396,
@@ -650,6 +708,8 @@
         "deceduti": 6820,
         "totale_casi": 69176,
         "tamponi": 296964,
+        "note_it": "",
+        "note_en": "",
         "totale_casi_ieri": 63927,
         "totale_nuovi_casi": 5249,
         "dimessi_guariti_ieri": 7432,
@@ -658,5 +718,29 @@
         "nuovi_deceduti": 743,
         "terapia_intensiva_ieri": 3204,
         "nuovi_terapia_intensiva": 192
+    },
+    {
+        "data": "2020-03-25T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 23112,
+        "terapia_intensiva": 3489,
+        "totale_ospedalizzati": 26601,
+        "isolamento_domiciliare": 30920,
+        "totale_attualmente_positivi": 57521,
+        "nuovi_attualmente_positivi": 3491,
+        "dimessi_guariti": 9362,
+        "deceduti": 7503,
+        "totale_casi": 74386,
+        "tamponi": 324445,
+        "note_it": "",
+        "note_en": "",
+        "totale_casi_ieri": 69176,
+        "totale_nuovi_casi": 5210,
+        "dimessi_guariti_ieri": 8326,
+        "nuovi_dimessi_guariti": 1036,
+        "deceduti_ieri": 6820,
+        "nuovi_deceduti": 683,
+        "terapia_intensiva_ieri": 3396,
+        "nuovi_terapia_intensiva": 93
     }
 ]
