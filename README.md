@@ -1,6 +1,7 @@
 
 # Estensione non ufficiale dati CSV e JSON di COVID-19 Italia + AWS Forecast
 
+[![Liberpay](http://img.shields.io/liberapay/receives/heyteacher.svg?logo=liberapay)](https://liberapay.com/heyteacher/donate)
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/heyteacher/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/heyteacher/COVID-19)](https://github.com/heyteacher/COVID-19/commits/master)
 
