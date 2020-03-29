@@ -814,5 +814,29 @@
         "nuovi_deceduti": 889,
         "terapia_intensiva_ieri": 3732,
         "nuovi_terapia_intensiva": 124
+    },
+    {
+        "data": "2020-03-29T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 27386,
+        "terapia_intensiva": 3906,
+        "totale_ospedalizzati": 31292,
+        "isolamento_domiciliare": 42588,
+        "totale_attualmente_positivi": 73880,
+        "nuovi_attualmente_positivi": 3815,
+        "dimessi_guariti": 13030,
+        "deceduti": 10779,
+        "totale_casi": 97689,
+        "tamponi": 454030,
+        "note_it": "pd-IT-0009",
+        "note_en": "pd-EN-0009",
+        "totale_casi_ieri": 92472,
+        "totale_nuovi_casi": 5217,
+        "dimessi_guariti_ieri": 12384,
+        "nuovi_dimessi_guariti": 646,
+        "deceduti_ieri": 10023,
+        "nuovi_deceduti": 756,
+        "terapia_intensiva_ieri": 3856,
+        "nuovi_terapia_intensiva": 50
     }
 ]
