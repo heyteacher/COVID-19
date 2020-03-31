@@ -12,7 +12,7 @@ Il Repository contiene:
 * __forecast__ nazionale calcolato come aggregazione del __forecast__ di __nuovi_casi__ regionale
 
 I dati JSON di questo repository sono utilizzati per la realizzazione della dashboard COVID-19 Italia 
-https://heyteacher.github.io/COVID-19/ 
+https://heyteacher.github.io/COVID-19/ un progetto Angular 9 i cui sorgenti sono disponibili qui: https://github.com/heyteacher/ng-covid-19-ita-charts 
 
 
 ## Formato dei dati
