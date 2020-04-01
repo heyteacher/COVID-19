@@ -8,7 +8,7 @@
 Il Repository contiene: 
 
 * estensioni calcolate sui dati CSV e JSON forniti da https://github.com/pcm-dpc/COVID-19 
-* generazione di __forecast__ su __nuovi casi__ sulla _time series regionale_ tramite https://aws.amazon.com/forecast/ (_Perform AutoML_).
+* generazione di __forecast__ su __nuovi casi__ sulla _time series regionale_ tramite https://aws.amazon.com/forecast/ (_Perform AutoML_, _Quantile Loss_: 10%, 50% and 90%).
 * __forecast__ nazionale calcolato come aggregazione del __forecast__ di __nuovi_casi__ regionale
 
 I dati JSON di questo repository sono utilizzati per la realizzazione della dashboard COVID-19 Italia 
@@ -78,7 +78,9 @@ https://heyteacher.github.io/COVID-19/
 | Nome campo                  | Descrizione                               | Description        | Formato     |
 |-----------------------------|-------------------------------------------|--------------------|-------------|
 | **date**                    | Nuovi casi rispetto ieri                  |                    | Timestamp   |
-| **p90**                     | previsione nuovi casi(quantile loss 90%)  |                    | Float       |
+| **p10**                     | previsione nuovi casi (quantile loss 10%) |                    | Float       |
+| **p50**                     | previsione nuovi casi (quantile loss 50%) |                    | Float       |
+| **p90**                     | previsione nuovi casi (quantile loss 90%) |                    | Float       |
 
 ### Dati Forecast Regionale
 
@@ -89,4 +91,6 @@ https://heyteacher.github.io/COVID-19/
 |-----------------------------|-------------------------------------------|--------------------|-------------|
 | **item_id**                 | Denominazio Regione                       |                    | Timestamp   |
 | **date**                    | Nuovi casi rispetto ieri                  |                    | Timestamp   |
+| **p10**                     | previsione nuovi casi (quantile loss 10%) |                    | Float       |
+| **p50**                     | previsione nuovi casi (quantile loss 50%) |                    | Float       |
 | **p90**                     | previsione nuovi casi  (quantile loss 90%)|                    | Float       |
