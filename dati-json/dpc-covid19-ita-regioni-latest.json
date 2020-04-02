@@ -26,7 +26,9 @@
         "deceduti_ieri": 115,
         "nuovi_deceduti": 8,
         "terapia_intensiva_ieri": 73,
-        "nuovi_terapia_intensiva": -2
+        "nuovi_terapia_intensiva": -2,
+        "tamponi_ieri": 8758,
+        "nuovi_tamponi": 852
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -55,7 +57,9 @@
         "deceduti_ieri": 7,
         "nuovi_deceduti": 2,
         "terapia_intensiva_ieri": 17,
-        "nuovi_terapia_intensiva": -2
+        "nuovi_terapia_intensiva": -2,
+        "tamponi_ieri": 2043,
+        "nuovi_tamponi": 219
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -84,7 +88,9 @@
         "deceduti_ieri": 36,
         "nuovi_deceduti": 2,
         "terapia_intensiva_ieri": 17,
-        "nuovi_terapia_intensiva": -1
+        "nuovi_terapia_intensiva": -1,
+        "tamponi_ieri": 9327,
+        "nuovi_tamponi": 656
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -113,7 +119,9 @@
         "deceduti_ieri": 133,
         "nuovi_deceduti": 15,
         "terapia_intensiva_ieri": 133,
-        "nuovi_terapia_intensiva": -4
+        "nuovi_terapia_intensiva": -4,
+        "tamponi_ieri": 14403,
+        "nuovi_tamponi": 1325
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -142,7 +150,9 @@
         "deceduti_ieri": 1644,
         "nuovi_deceduti": 88,
         "terapia_intensiva_ieri": 353,
-        "nuovi_terapia_intensiva": 6
+        "nuovi_terapia_intensiva": 6,
+        "tamponi_ieri": 54532,
+        "nuovi_tamponi": 3925
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -171,7 +181,9 @@
         "deceduti_ieri": 113,
         "nuovi_deceduti": 9,
         "terapia_intensiva_ieri": 60,
-        "nuovi_terapia_intensiva": 0
+        "nuovi_terapia_intensiva": 0,
+        "tamponi_ieri": 14899,
+        "nuovi_tamponi": 1088
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -200,7 +212,9 @@
         "deceduti_ieri": 162,
         "nuovi_deceduti": 7,
         "terapia_intensiva_ieri": 173,
-        "nuovi_terapia_intensiva": 4
+        "nuovi_terapia_intensiva": 4,
+        "tamponi_ieri": 34677,
+        "nuovi_tamponi": 1133
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -229,7 +243,9 @@
         "deceduti_ieri": 428,
         "nuovi_deceduti": 32,
         "terapia_intensiva_ieri": 179,
-        "nuovi_terapia_intensiva": 0
+        "nuovi_terapia_intensiva": 0,
+        "tamponi_ieri": 10376,
+        "nuovi_tamponi": 958
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -258,7 +274,9 @@
         "deceduti_ieri": 7199,
         "nuovi_deceduti": 394,
         "terapia_intensiva_ieri": 1324,
-        "nuovi_terapia_intensiva": 18
+        "nuovi_terapia_intensiva": 18,
+        "tamponi_ieri": 114640,
+        "nuovi_tamponi": 6809
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -287,7 +305,9 @@
         "deceduti_ieri": 452,
         "nuovi_deceduti": 25,
         "terapia_intensiva_ieri": 169,
-        "nuovi_terapia_intensiva": -1
+        "nuovi_terapia_intensiva": -1,
+        "tamponi_ieri": 11724,
+        "nuovi_tamponi": 572
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -316,7 +336,9 @@
         "deceduti_ieri": 9,
         "nuovi_deceduti": 1,
         "terapia_intensiva_ieri": 8,
-        "nuovi_terapia_intensiva": 0
+        "nuovi_terapia_intensiva": 0,
+        "tamponi_ieri": 1049,
+        "nuovi_tamponi": 108
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -345,7 +367,9 @@
         "deceduti_ieri": 76,
         "nuovi_deceduti": 40,
         "terapia_intensiva_ieri": 62,
-        "nuovi_terapia_intensiva": -5
+        "nuovi_terapia_intensiva": -5,
+        "tamponi_ieri": 11275,
+        "nuovi_tamponi": 676
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -374,7 +398,9 @@
         "deceduti_ieri": 164,
         "nuovi_deceduti": 9,
         "terapia_intensiva_ieri": 80,
-        "nuovi_terapia_intensiva": -4
+        "nuovi_terapia_intensiva": -4,
+        "tamponi_ieri": 6973,
+        "nuovi_tamponi": 702
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -403,7 +429,9 @@
         "deceduti_ieri": 854,
         "nuovi_deceduti": 32,
         "terapia_intensiva_ieri": 452,
-        "nuovi_terapia_intensiva": 1
+        "nuovi_terapia_intensiva": 1,
+        "tamponi_ieri": 27658,
+        "nuovi_tamponi": 2402
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -432,7 +460,9 @@
         "deceduti_ieri": 110,
         "nuovi_deceduti": 19,
         "terapia_intensiva_ieri": 105,
-        "nuovi_terapia_intensiva": 2
+        "nuovi_terapia_intensiva": 2,
+        "tamponi_ieri": 14073,
+        "nuovi_tamponi": 1136
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -461,7 +491,9 @@
         "deceduti_ieri": 31,
         "nuovi_deceduti": 3,
         "terapia_intensiva_ieri": 28,
-        "nuovi_terapia_intensiva": -1
+        "nuovi_terapia_intensiva": -1,
+        "tamponi_ieri": 5257,
+        "nuovi_tamponi": 244
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -490,7 +522,9 @@
         "deceduti_ieri": 81,
         "nuovi_deceduti": 7,
         "terapia_intensiva_ieri": 72,
-        "nuovi_terapia_intensiva": 0
+        "nuovi_terapia_intensiva": 0,
+        "tamponi_ieri": 15634,
+        "nuovi_tamponi": 1202
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -519,7 +553,9 @@
         "deceduti_ieri": 244,
         "nuovi_deceduti": 9,
         "terapia_intensiva_ieri": 293,
-        "nuovi_terapia_intensiva": 4
+        "nuovi_terapia_intensiva": 4,
+        "tamponi_ieri": 33165,
+        "nuovi_tamponi": 3410
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -548,7 +584,9 @@
         "deceduti_ieri": 37,
         "nuovi_deceduti": 0,
         "terapia_intensiva_ieri": 43,
-        "nuovi_terapia_intensiva": 2
+        "nuovi_terapia_intensiva": 2,
+        "tamponi_ieri": 8685,
+        "nuovi_tamponi": 395
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -577,7 +615,9 @@
         "deceduti_ieri": 56,
         "nuovi_deceduti": 3,
         "terapia_intensiva_ieri": 26,
-        "nuovi_terapia_intensiva": 1
+        "nuovi_terapia_intensiva": 1,
+        "tamponi_ieri": 1582,
+        "nuovi_tamponi": 135
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -606,6 +646,8 @@
         "deceduti_ieri": 477,
         "nuovi_deceduti": 22,
         "terapia_intensiva_ieri": 356,
-        "nuovi_terapia_intensiva": -6
+        "nuovi_terapia_intensiva": -6,
+        "tamponi_ieri": 106238,
+        "nuovi_tamponi": 6508
     }
 ]

@@ -22,6 +22,8 @@
         "deceduti_ieri": 12428,
         "nuovi_deceduti": 727,
         "terapia_intensiva_ieri": 4023,
-        "nuovi_terapia_intensiva": 12
+        "nuovi_terapia_intensiva": 12,
+        "tamponi_ieri": 506968,
+        "nuovi_tamponi": 34455
     }
 ]
