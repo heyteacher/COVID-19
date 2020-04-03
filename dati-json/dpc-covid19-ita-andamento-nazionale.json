@@ -1051,5 +1051,32 @@
         "nuovi_terapia_intensiva": 18,
         "tamponi_ieri": 541423,
         "nuovi_tamponi": 39809
+    },
+    {
+        "data": "2020-04-03T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 28741,
+        "terapia_intensiva": 4068,
+        "totale_ospedalizzati": 32809,
+        "isolamento_domiciliare": 52579,
+        "totale_positivi": 85388,
+        "variazione_totale_positivi": 2339,
+        "nuovi_positivi": 4585,
+        "dimessi_guariti": 19758,
+        "deceduti": 14681,
+        "totale_casi": 119827,
+        "tamponi": 619849,
+        "note_it": "",
+        "note_en": "",
+        "totale_casi_ieri": 115242,
+        "totale_nuovi_casi": 4585,
+        "dimessi_guariti_ieri": 18278,
+        "nuovi_dimessi_guariti": 1480,
+        "deceduti_ieri": 13915,
+        "nuovi_deceduti": 766,
+        "terapia_intensiva_ieri": 4053,
+        "nuovi_terapia_intensiva": 15,
+        "tamponi_ieri": 581232,
+        "nuovi_tamponi": 38617
     }
 ]
