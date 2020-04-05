@@ -1,45 +1,5 @@
 [
     {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-05T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-06T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-07T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-08T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-09T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-10T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-11T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
-        "item_id": "emilia-romagna",
-        "date": "2020-04-12T00:00:00Z",
-        "p50": "608.0"
-    },
-    {
         "item_id": "liguria",
         "date": "2020-04-05T00:00:00Z",
         "p50": "170.5839130636773"
@@ -78,6 +38,46 @@
         "item_id": "liguria",
         "date": "2020-04-12T00:00:00Z",
         "p50": "242.94756311062588"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-05T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-06T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-07T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-08T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-09T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-10T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-11T00:00:00Z",
+        "p50": "608.0"
+    },
+    {
+        "item_id": "emilia-romagna",
+        "date": "2020-04-12T00:00:00Z",
+        "p50": "608.0"
     },
     {
         "item_id": "lazio",
