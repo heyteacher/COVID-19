@@ -16,6 +16,8 @@ https://heyteacher.github.io/COVID-19/ un progetto Angular 9 i cui sorgenti sono
 
 Lo scopo della denormalizzazione introdotta da questo repository consiste nell'agevolare l' accesso di dati senza doverli ricalcolare. 
 
+I Forecast e i Dataset estesi di questo repository sono aggiornati automaticamente a partire dalle `18:00 Europe/Rome` da una __AWS Step Functions__ il cui __AWS SAM Template__ è disponibile nel seguente repository https://github.com/heyteacher/sam-forecast-automation-covid-19-ita
+ 
 ## Formato dei dati
 
 ### Dati Nazionali e Dati per Regione
