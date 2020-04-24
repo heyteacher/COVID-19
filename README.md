@@ -8,8 +8,8 @@
 Il Repository contiene: 
 
 * estensioni calcolate sui dati CSV e JSON ufficiali forniti da https://github.com/pcm-dpc/COVID-19 
-* generazione di __forecast__ su __nuovi casi__ sulla _time series regionale_ tramite https://aws.amazon.com/forecast/ (_Perform AutoML_, _Quantile Loss_: 50% ).
-* __forecast__ nazionale calcolato come aggregazione del __forecast__ di __nuovi_casi__ regionale
+* generazione di __forecast__ su __nuovi casi__ sulla _time series regionale_ tramite https://aws.amazon.com/forecast/ (_ARIMA_ e _DeepAR+_  con _Quantile Loss_: 50% ).
+* __forecast__ nazionali calcolati come aggregazione dei __forecast__ di __nuovi_casi__ regionali
 
 I dati JSON di questo repository sono utilizzati per la realizzazione della dashboard COVID-19 Italia 
 https://heyteacher.github.io/COVID-19/ un progetto Angular 9 i cui sorgenti sono disponibili qui: https://github.com/heyteacher/ng-covid-19-ita-charts 
@@ -54,6 +54,8 @@ Di seguito la definizione dei nuovi valori calcolati rispetto ai dataset ufficia
 | **terapia_intensiva_ieri**  | Totale in terapia intensiva ieri          | Yesterday intensive cares       | Number   |
 | **nuovi_tamponi**           | Nuovi tamponi rispetto ieri               | New amount test (swab)          | Number   |
 | **tamponi_ieri**            | Totale tamponi ieri                       | Yesterday amount test (swab)    | Number   |
+| **nuovi_casi_testati**      | Nuove persone testate rispetto ier        | New people tested (swab)        | Number   |
+| **casi_testati_ieri**       | Persone testate ieri                      | Yesterday people tested (swab)  | Number   |
 
 __NOTA__: a partire del 01/04/2020 il repository ufficiale ha introdotto `nuovi_positivi` che corrisponde a `totale_nuovi_casi` di questo dataset
 
@@ -78,25 +80,44 @@ __NOTA__: a partire del 01/04/2020 il repository ufficiale ha introdotto `nuovi_
 | **totale_casi_ieri**        | Totale casi di ieri                       | Yesterday amount positive cases | Number   |
 
 
-### Dati Forecast Nazionale
+### Dati Forecast Nazionale ARIMA
 
 **File complessivo JSON:** 
 * `dati-json-forecast/covid19-ita-andamento-nazionale-forecast.json` 
 
-| Nome campo                  | Descrizione                               | Description                 | Formato     |
-|-----------------------------|-------------------------------------------|-----------------------------|-------------|
-| **date**                    | Giorno della rilevazione                  | Date of notification        | Timestamp   |
-| **p50**                     | previsione nuovi casi (quantile loss 50%) | Forecast new positive cases | Float       |
+| Nome campo                  | Descrizione                                      | Description                                             | Formato     |
+|-----------------------------|--------------------------------------------------|---------------------------------------------------------|-------------|
+| **date**                    | Giorno della rilevazione                         | Date of notification                                    | Timestamp   |
+| **p50**                     | previsione nuovi casi (ARIMA, quantile loss 50%) | Forecast new positive cases  (ARIMA, quantile loss 50%) | Float       |
 
-### Dati Forecast Regionale
+### Dati Forecast Regionale ARIMA
 
 **File complessivo JSON:** 
 * `dati-json-forecast/covid19-ita-andamento-nazionale-forecast.json` 
 
-| Nome campo                  | Descrizione                               | Description        | Formato     |
-|-----------------------------|-------------------------------------------|--------------------|-------------|
-| **item_id**                 | Denominazio Regione                       |                    | Timestamp   |
-| **date**                    | Nuovi casi rispetto ieri                  |                    | Timestamp   |
-| **p10**                     | previsione nuovi casi (quantile loss 10%) |                    | Float       |
-| **p50**                     | previsione nuovi casi (quantile loss 50%) |                    | Float       |
-| **p90**                     | previsione nuovi casi  (quantile loss 90%)|                    | Float       |
+| Nome campo                  | Descrizione                                      | Description                                             | Formato     |
+|-----------------------------|--------------------------------------------------|---------------------------------------------------------|-------------|
+| **item_id**                 | Denominazione Regione                            | Region                                                  | String      |
+| **date**                    | Giorno della rilevazione                         | Giorno della rilevazione                                | Timestamp   |
+| **p50**                     | previsione nuovi casi (ARIMA, quantile loss 50%) | Forecast new positive cases  (ARIMA, quantile loss 50%) | Float       |
+
+### Dati Forecast Nazionale DeepAR+
+
+**File complessivo JSON:** 
+* `dati-json-forecast/covid19-ita-andamento-nazionale-forecast-Deep_AR_Plus.json` 
+
+| Nome campo                  | Descrizione                                        | Description                                               | Formato     |
+|-----------------------------|----------------------------------------------------|-----------------------------------------------------------|-------------|
+| **date**                    | Giorno della rilevazione                           | Date of notification                                      | Timestamp   |
+| **p50**                     | previsione nuovi casi (DeepAR+, quantile loss 50%) | Forecast new positive cases  (DeepAR+, quantile loss 50%) | Float       |
+
+### Dati Forecast Regionale DeepAR+
+
+**File complessivo JSON:** 
+* `dati-json-forecast/covid19-ita-andamento-nazionale-forecast-Deep_AR_Plus.json` 
+
+| Nome campo                  | Descrizione                                        | Description                                               | Formato     |
+|-----------------------------|----------------------------------------------------|-----------------------------------------------------------|-------------|
+| **item_id**                 | Denominazione Regione                              | Region                                                    | String      |
+| **date**                    | Giorno della rilevazione                           | Giorno della rilevazione                                  | Timestamp   |
+| **p50**                     | previsione nuovi casi (DeepAR+, quantile loss 50%) | Forecast new positive cases  (DeepAR+, quantile loss 50%) | Float       |
