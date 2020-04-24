@@ -25,7 +25,9 @@
         "terapia_intensiva_ieri": 0,
         "nuovi_terapia_intensiva": 26,
         "tamponi_ieri": 0,
-        "nuovi_tamponi": 4324
+        "nuovi_tamponi": 4324,
+        "casi_testati_ieri": 0,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-02-25T18:00:00",
@@ -53,7 +55,9 @@
         "terapia_intensiva_ieri": 26,
         "nuovi_terapia_intensiva": 9,
         "tamponi_ieri": 4324,
-        "nuovi_tamponi": 4299
+        "nuovi_tamponi": 4299,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-02-26T18:00:00",
@@ -81,7 +85,9 @@
         "terapia_intensiva_ieri": 35,
         "nuovi_terapia_intensiva": 1,
         "tamponi_ieri": 8623,
-        "nuovi_tamponi": 964
+        "nuovi_tamponi": 964,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-02-27T18:00:00",
@@ -109,7 +115,9 @@
         "terapia_intensiva_ieri": 36,
         "nuovi_terapia_intensiva": 20,
         "tamponi_ieri": 9587,
-        "nuovi_tamponi": 2427
+        "nuovi_tamponi": 2427,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-02-28T18:00:00",
@@ -137,7 +145,9 @@
         "terapia_intensiva_ieri": 56,
         "nuovi_terapia_intensiva": 8,
         "tamponi_ieri": 12014,
-        "nuovi_tamponi": 3681
+        "nuovi_tamponi": 3681,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-02-29T18:00:00",
@@ -165,7 +175,9 @@
         "terapia_intensiva_ieri": 64,
         "nuovi_terapia_intensiva": 41,
         "tamponi_ieri": 15695,
-        "nuovi_tamponi": 2966
+        "nuovi_tamponi": 2966,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-01T18:00:00",
@@ -193,7 +205,9 @@
         "terapia_intensiva_ieri": 105,
         "nuovi_terapia_intensiva": 35,
         "tamponi_ieri": 18661,
-        "nuovi_tamponi": 2466
+        "nuovi_tamponi": 2466,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-02T18:00:00",
@@ -221,7 +235,9 @@
         "terapia_intensiva_ieri": 140,
         "nuovi_terapia_intensiva": 26,
         "tamponi_ieri": 21127,
-        "nuovi_tamponi": 2218
+        "nuovi_tamponi": 2218,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-03T18:00:00",
@@ -249,7 +265,9 @@
         "terapia_intensiva_ieri": 166,
         "nuovi_terapia_intensiva": 63,
         "tamponi_ieri": 23345,
-        "nuovi_tamponi": 2511
+        "nuovi_tamponi": 2511,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-04T18:00:00",
@@ -277,7 +295,9 @@
         "terapia_intensiva_ieri": 229,
         "nuovi_terapia_intensiva": 66,
         "tamponi_ieri": 25856,
-        "nuovi_tamponi": 3981
+        "nuovi_tamponi": 3981,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-05T18:00:00",
@@ -305,7 +325,9 @@
         "terapia_intensiva_ieri": 295,
         "nuovi_terapia_intensiva": 56,
         "tamponi_ieri": 29837,
-        "nuovi_tamponi": 2525
+        "nuovi_tamponi": 2525,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-06T18:00:00",
@@ -333,7 +355,9 @@
         "terapia_intensiva_ieri": 351,
         "nuovi_terapia_intensiva": 111,
         "tamponi_ieri": 32362,
-        "nuovi_tamponi": 3997
+        "nuovi_tamponi": 3997,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-07T18:00:00",
@@ -361,7 +385,9 @@
         "terapia_intensiva_ieri": 462,
         "nuovi_terapia_intensiva": 105,
         "tamponi_ieri": 36359,
-        "nuovi_tamponi": 5703
+        "nuovi_tamponi": 5703,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-08T18:00:00",
@@ -389,7 +415,9 @@
         "terapia_intensiva_ieri": 567,
         "nuovi_terapia_intensiva": 83,
         "tamponi_ieri": 42062,
-        "nuovi_tamponi": 7875
+        "nuovi_tamponi": 7875,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-09T18:00:00",
@@ -417,7 +445,9 @@
         "terapia_intensiva_ieri": 650,
         "nuovi_terapia_intensiva": 83,
         "tamponi_ieri": 49937,
-        "nuovi_tamponi": 3889
+        "nuovi_tamponi": 3889,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-10T18:00:00",
@@ -445,7 +475,9 @@
         "terapia_intensiva_ieri": 733,
         "nuovi_terapia_intensiva": 144,
         "tamponi_ieri": 53826,
-        "nuovi_tamponi": 6935
+        "nuovi_tamponi": 6935,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-11T17:00:00",
@@ -473,7 +505,9 @@
         "terapia_intensiva_ieri": 877,
         "nuovi_terapia_intensiva": 151,
         "tamponi_ieri": 60761,
-        "nuovi_tamponi": 12393
+        "nuovi_tamponi": 12393,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-12T17:00:00",
@@ -501,7 +535,9 @@
         "terapia_intensiva_ieri": 1028,
         "nuovi_terapia_intensiva": 125,
         "tamponi_ieri": 73154,
-        "nuovi_tamponi": 12857
+        "nuovi_tamponi": 12857,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-13T17:00:00",
@@ -529,7 +565,9 @@
         "terapia_intensiva_ieri": 1153,
         "nuovi_terapia_intensiva": 175,
         "tamponi_ieri": 86011,
-        "nuovi_tamponi": 11477
+        "nuovi_tamponi": 11477,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-14T17:00:00",
@@ -557,7 +595,9 @@
         "terapia_intensiva_ieri": 1328,
         "nuovi_terapia_intensiva": 190,
         "tamponi_ieri": 97488,
-        "nuovi_tamponi": 11682
+        "nuovi_tamponi": 11682,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-15T17:00:00",
@@ -585,7 +625,9 @@
         "terapia_intensiva_ieri": 1518,
         "nuovi_terapia_intensiva": 154,
         "tamponi_ieri": 109170,
-        "nuovi_tamponi": 15729
+        "nuovi_tamponi": 15729,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-16T17:00:00",
@@ -613,7 +655,9 @@
         "terapia_intensiva_ieri": 1672,
         "nuovi_terapia_intensiva": 179,
         "tamponi_ieri": 124899,
-        "nuovi_tamponi": 13063
+        "nuovi_tamponi": 13063,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-17T17:00:00",
@@ -641,7 +685,9 @@
         "terapia_intensiva_ieri": 1851,
         "nuovi_terapia_intensiva": 209,
         "tamponi_ieri": 137962,
-        "nuovi_tamponi": 10695
+        "nuovi_tamponi": 10695,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-18T17:00:00",
@@ -669,7 +715,9 @@
         "terapia_intensiva_ieri": 2060,
         "nuovi_terapia_intensiva": 197,
         "tamponi_ieri": 148657,
-        "nuovi_tamponi": 16884
+        "nuovi_tamponi": 16884,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-19T17:00:00",
@@ -697,7 +745,9 @@
         "terapia_intensiva_ieri": 2257,
         "nuovi_terapia_intensiva": 241,
         "tamponi_ieri": 165541,
-        "nuovi_tamponi": 17236
+        "nuovi_tamponi": 17236,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-20T17:00:00",
@@ -725,7 +775,9 @@
         "terapia_intensiva_ieri": 2498,
         "nuovi_terapia_intensiva": 157,
         "tamponi_ieri": 182777,
-        "nuovi_tamponi": 24109
+        "nuovi_tamponi": 24109,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-21T17:00:00",
@@ -753,7 +805,9 @@
         "terapia_intensiva_ieri": 2655,
         "nuovi_terapia_intensiva": 202,
         "tamponi_ieri": 206886,
-        "nuovi_tamponi": 26336
+        "nuovi_tamponi": 26336,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-22T17:00:00",
@@ -781,7 +835,9 @@
         "terapia_intensiva_ieri": 2857,
         "nuovi_terapia_intensiva": 152,
         "tamponi_ieri": 233222,
-        "nuovi_tamponi": 25180
+        "nuovi_tamponi": 25180,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-23T17:00:00",
@@ -809,7 +865,9 @@
         "terapia_intensiva_ieri": 3009,
         "nuovi_terapia_intensiva": 195,
         "tamponi_ieri": 258402,
-        "nuovi_tamponi": 17066
+        "nuovi_tamponi": 17066,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-24T17:00:00",
@@ -837,7 +895,9 @@
         "terapia_intensiva_ieri": 3204,
         "nuovi_terapia_intensiva": 192,
         "tamponi_ieri": 275468,
-        "nuovi_tamponi": 21496
+        "nuovi_tamponi": 21496,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-25T17:00:00",
@@ -865,7 +925,9 @@
         "terapia_intensiva_ieri": 3396,
         "nuovi_terapia_intensiva": 93,
         "tamponi_ieri": 296964,
-        "nuovi_tamponi": 27481
+        "nuovi_tamponi": 27481,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-26T17:00:00",
@@ -893,7 +955,9 @@
         "terapia_intensiva_ieri": 3489,
         "nuovi_terapia_intensiva": 123,
         "tamponi_ieri": 324445,
-        "nuovi_tamponi": 36615
+        "nuovi_tamponi": 36615,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-27T17:00:00",
@@ -921,7 +985,9 @@
         "terapia_intensiva_ieri": 3612,
         "nuovi_terapia_intensiva": 120,
         "tamponi_ieri": 361060,
-        "nuovi_tamponi": 33019
+        "nuovi_tamponi": 33019,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-28T17:00:00",
@@ -949,7 +1015,9 @@
         "terapia_intensiva_ieri": 3732,
         "nuovi_terapia_intensiva": 124,
         "tamponi_ieri": 394079,
-        "nuovi_tamponi": 35447
+        "nuovi_tamponi": 35447,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-29T17:00:00",
@@ -977,7 +1045,9 @@
         "terapia_intensiva_ieri": 3856,
         "nuovi_terapia_intensiva": 50,
         "tamponi_ieri": 429526,
-        "nuovi_tamponi": 24504
+        "nuovi_tamponi": 24504,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-30T17:00:00",
@@ -1005,7 +1075,9 @@
         "terapia_intensiva_ieri": 3906,
         "nuovi_terapia_intensiva": 75,
         "tamponi_ieri": 454030,
-        "nuovi_tamponi": 23329
+        "nuovi_tamponi": 23329,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-03-31T17:00:00",
@@ -1033,7 +1105,9 @@
         "terapia_intensiva_ieri": 3981,
         "nuovi_terapia_intensiva": 42,
         "tamponi_ieri": 477359,
-        "nuovi_tamponi": 29609
+        "nuovi_tamponi": 29609,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -1061,7 +1135,9 @@
         "terapia_intensiva_ieri": 4023,
         "nuovi_terapia_intensiva": 12,
         "tamponi_ieri": 506968,
-        "nuovi_tamponi": 34455
+        "nuovi_tamponi": 34455,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-02T17:00:00",
@@ -1089,7 +1165,9 @@
         "terapia_intensiva_ieri": 4035,
         "nuovi_terapia_intensiva": 18,
         "tamponi_ieri": 541423,
-        "nuovi_tamponi": 39809
+        "nuovi_tamponi": 39809,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-03T17:00:00",
@@ -1117,7 +1195,9 @@
         "terapia_intensiva_ieri": 4053,
         "nuovi_terapia_intensiva": 15,
         "tamponi_ieri": 581232,
-        "nuovi_tamponi": 38617
+        "nuovi_tamponi": 38617,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-04T17:00:00",
@@ -1145,7 +1225,9 @@
         "terapia_intensiva_ieri": 4068,
         "nuovi_terapia_intensiva": -74,
         "tamponi_ieri": 619849,
-        "nuovi_tamponi": 37375
+        "nuovi_tamponi": 37375,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-05T17:00:00",
@@ -1173,7 +1255,9 @@
         "terapia_intensiva_ieri": 3994,
         "nuovi_terapia_intensiva": -17,
         "tamponi_ieri": 657224,
-        "nuovi_tamponi": 34237
+        "nuovi_tamponi": 34237,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-06T17:00:00",
@@ -1201,7 +1285,9 @@
         "terapia_intensiva_ieri": 3977,
         "nuovi_terapia_intensiva": -79,
         "tamponi_ieri": 691461,
-        "nuovi_tamponi": 30271
+        "nuovi_tamponi": 30271,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-07T17:00:00",
@@ -1229,7 +1315,9 @@
         "terapia_intensiva_ieri": 3898,
         "nuovi_terapia_intensiva": -106,
         "tamponi_ieri": 721732,
-        "nuovi_tamponi": 33713
+        "nuovi_tamponi": 33713,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-08T17:00:00",
@@ -1257,7 +1345,9 @@
         "terapia_intensiva_ieri": 3792,
         "nuovi_terapia_intensiva": -99,
         "tamponi_ieri": 755445,
-        "nuovi_tamponi": 51680
+        "nuovi_tamponi": 51680,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-09T17:00:00",
@@ -1285,7 +1375,9 @@
         "terapia_intensiva_ieri": 3693,
         "nuovi_terapia_intensiva": -88,
         "tamponi_ieri": 807125,
-        "nuovi_tamponi": 46244
+        "nuovi_tamponi": 46244,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-10T17:00:00",
@@ -1313,7 +1405,9 @@
         "terapia_intensiva_ieri": 3605,
         "nuovi_terapia_intensiva": -108,
         "tamponi_ieri": 853369,
-        "nuovi_tamponi": 53495
+        "nuovi_tamponi": 53495,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-11T17:00:00",
@@ -1341,7 +1435,9 @@
         "terapia_intensiva_ieri": 3497,
         "nuovi_terapia_intensiva": -116,
         "tamponi_ieri": 906864,
-        "nuovi_tamponi": 56609
+        "nuovi_tamponi": 56609,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-12T17:00:00",
@@ -1369,7 +1465,9 @@
         "terapia_intensiva_ieri": 3381,
         "nuovi_terapia_intensiva": -38,
         "tamponi_ieri": 963473,
-        "nuovi_tamponi": 46720
+        "nuovi_tamponi": 46720,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-13T17:00:00",
@@ -1397,7 +1495,9 @@
         "terapia_intensiva_ieri": 3343,
         "nuovi_terapia_intensiva": -83,
         "tamponi_ieri": 1010193,
-        "nuovi_tamponi": 36717
+        "nuovi_tamponi": 36717,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-14T17:00:00",
@@ -1425,7 +1525,9 @@
         "terapia_intensiva_ieri": 3260,
         "nuovi_terapia_intensiva": -74,
         "tamponi_ieri": 1046910,
-        "nuovi_tamponi": 26779
+        "nuovi_tamponi": 26779,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-15T17:00:00",
@@ -1453,7 +1555,9 @@
         "terapia_intensiva_ieri": 3186,
         "nuovi_terapia_intensiva": -107,
         "tamponi_ieri": 1073689,
-        "nuovi_tamponi": 43715
+        "nuovi_tamponi": 43715,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-16T17:00:00",
@@ -1481,7 +1585,9 @@
         "terapia_intensiva_ieri": 3079,
         "nuovi_terapia_intensiva": -143,
         "tamponi_ieri": 1117404,
-        "nuovi_tamponi": 60999
+        "nuovi_tamponi": 60999,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-17T17:00:00",
@@ -1509,7 +1615,9 @@
         "terapia_intensiva_ieri": 2936,
         "nuovi_terapia_intensiva": -124,
         "tamponi_ieri": 1178403,
-        "nuovi_tamponi": 65705
+        "nuovi_tamponi": 65705,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-18T17:00:00",
@@ -1537,7 +1645,9 @@
         "terapia_intensiva_ieri": 2812,
         "nuovi_terapia_intensiva": -79,
         "tamponi_ieri": 1244108,
-        "nuovi_tamponi": 61725
+        "nuovi_tamponi": 61725,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 0
     },
     {
         "data": "2020-04-19T17:00:00",
@@ -1565,7 +1675,9 @@
         "terapia_intensiva_ieri": 2733,
         "nuovi_terapia_intensiva": -98,
         "tamponi_ieri": 1305833,
-        "nuovi_tamponi": 50708
+        "nuovi_tamponi": 50708,
+        "casi_testati_ieri": null,
+        "nuovi_casi_testati": 935310
     },
     {
         "data": "2020-04-20T17:00:00",
@@ -1593,7 +1705,9 @@
         "terapia_intensiva_ieri": 2635,
         "nuovi_terapia_intensiva": -62,
         "tamponi_ieri": 1356541,
-        "nuovi_tamponi": 41483
+        "nuovi_tamponi": 41483,
+        "casi_testati_ieri": 935310,
+        "nuovi_casi_testati": 7841
     },
     {
         "data": "2020-04-21T17:00:00",
@@ -1621,7 +1735,9 @@
         "terapia_intensiva_ieri": 2573,
         "nuovi_terapia_intensiva": -102,
         "tamponi_ieri": 1398024,
-        "nuovi_tamponi": 52126
+        "nuovi_tamponi": 52126,
+        "casi_testati_ieri": 943151,
+        "nuovi_casi_testati": 28095
     },
     {
         "data": "2020-04-22T17:00:00",
@@ -1649,7 +1765,9 @@
         "terapia_intensiva_ieri": 2471,
         "nuovi_terapia_intensiva": -87,
         "tamponi_ieri": 1450150,
-        "nuovi_tamponi": 63101
+        "nuovi_tamponi": 63101,
+        "casi_testati_ieri": 971246,
+        "nuovi_casi_testati": 44248
     },
     {
         "data": "2020-04-23T17:00:00",
@@ -1666,8 +1784,8 @@
         "totale_casi": 189973,
         "tamponi": 1579909,
         "casi_testati": 1052577,
-        "note_it": "pd-IT-0015",
-        "note_en": "pd-EN-0015",
+        "note_it": "pd-IT-0015;pd-IT-0017",
+        "note_en": "pd-IT-0015;pd-EN-0017",
         "totale_casi_ieri": 187327,
         "totale_nuovi_casi": 2646,
         "dimessi_guariti_ieri": 54543,
@@ -1677,6 +1795,38 @@
         "terapia_intensiva_ieri": 2384,
         "nuovi_terapia_intensiva": -117,
         "tamponi_ieri": 1513251,
-        "nuovi_tamponi": 66658
+        "nuovi_tamponi": 66658,
+        "casi_testati_ieri": 1015494,
+        "nuovi_casi_testati": 37083
+    },
+    {
+        "data": "2020-04-24T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 22068,
+        "terapia_intensiva": 2173,
+        "totale_ospedalizzati": 24241,
+        "isolamento_domiciliare": 82286,
+        "totale_positivi": 106527,
+        "variazione_totale_positivi": -321,
+        "nuovi_positivi": 3021,
+        "dimessi_guariti": 60498,
+        "deceduti": 25969,
+        "totale_casi": 192994,
+        "tamponi": 1642356,
+        "casi_testati": 1147850,
+        "note_it": "",
+        "note_en": "",
+        "totale_casi_ieri": 189973,
+        "totale_nuovi_casi": 3021,
+        "dimessi_guariti_ieri": 57576,
+        "nuovi_dimessi_guariti": 2922,
+        "deceduti_ieri": 25549,
+        "nuovi_deceduti": 420,
+        "terapia_intensiva_ieri": 2267,
+        "nuovi_terapia_intensiva": -94,
+        "tamponi_ieri": 1579909,
+        "nuovi_tamponi": 62447,
+        "casi_testati_ieri": 1052577,
+        "nuovi_casi_testati": 95273
     }
 ]
