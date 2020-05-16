@@ -67,10 +67,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-24T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-02-24T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-02-24T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-02-24T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,0,,,0,0
-2020-02-24T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-24T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-24T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-02-24T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,0,,,0,0
+2020-02-24T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-24T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-24T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-02-24T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-02-24T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-02-24T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -195,10 +195,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-25T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-02-25T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-02-25T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-02-25T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,0,1
-2020-02-25T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-25T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-25T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-02-25T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,0,1
+2020-02-25T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-25T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-25T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-02-25T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-02-25T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-02-25T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -323,10 +323,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-26T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-02-26T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-02-26T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-02-26T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-02-26T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-26T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-26T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-02-26T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-02-26T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-26T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-26T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-02-26T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-02-26T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-02-26T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -451,10 +451,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-27T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-02-27T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-02-27T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-02-27T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-02-27T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-27T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-27T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-02-27T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-02-27T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-27T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-27T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-02-27T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-02-27T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-02-27T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -579,10 +579,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-28T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-02-28T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-02-28T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-02-28T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-02-28T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-28T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-28T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-02-28T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-02-28T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-28T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-28T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-02-28T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-02-28T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-02-28T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -707,10 +707,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-29T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-02-29T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-02-29T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-02-29T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-02-29T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-29T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-02-29T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-02-29T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-02-29T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-29T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-02-29T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-02-29T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-02-29T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-02-29T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -835,10 +835,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-01T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-03-01T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-01T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-01T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-03-01T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-01T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-01T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-03-01T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-03-01T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-01T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-01T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-03-01T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-03-01T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,0,,,0,0
 2020-03-01T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -963,10 +963,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-02T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,0,,,0,0
 2020-03-02T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-02T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-02T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-03-02T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-02T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-02T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
+2020-03-02T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-03-02T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-02T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-02T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,0,,,0,0
 2020-03-02T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,0,,,0,0
 2020-03-02T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,37,,,0,37
 2020-03-02T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -1091,10 +1091,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-03T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,3,,,0,3
 2020-03-03T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-03T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-03T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-03-03T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-03T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-03T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4,,,0,4
+2020-03-03T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-03-03T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-03T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-03T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4,,,0,4
 2020-03-03T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1,,,0,1
 2020-03-03T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,40,,,37,3
 2020-03-03T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -1219,10 +1219,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-04T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,3,,,3,0
 2020-03-04T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-04T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-04T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-03-04T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-04T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-04T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,5,,,4,1
+2020-03-04T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-03-04T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-04T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-04T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,5,,,4,1
 2020-03-04T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,16,,,1,15
 2020-03-04T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,41,,,40,1
 2020-03-04T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,0,,,0,0
@@ -1347,10 +1347,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-05T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,7,,,3,4
 2020-03-05T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-05T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-05T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
-2020-03-05T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-05T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-05T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,7,,,5,2
+2020-03-05T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1,,,1,0
+2020-03-05T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-05T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-05T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,7,,,5,2
 2020-03-05T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,22,,,16,6
 2020-03-05T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,43,,,41,2
 2020-03-05T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,2,,,0,2
@@ -1475,10 +1475,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-06T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,12,,,7,5
 2020-03-06T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-06T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-06T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,4,,,1,3
-2020-03-06T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-06T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-06T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,10,,,7,3
+2020-03-06T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,4,,,1,3
+2020-03-06T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-06T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-06T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,10,,,7,3
 2020-03-06T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,32,,,22,10
 2020-03-06T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,47,,,43,4
 2020-03-06T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,3,,,2,1
@@ -1603,10 +1603,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-07T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,14,,,12,2
 2020-03-07T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-07T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-07T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,9,,,4,5
-2020-03-07T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-07T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-07T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,14,,,10,4
+2020-03-07T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,9,,,4,5
+2020-03-07T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-07T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-07T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,14,,,10,4
 2020-03-07T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,40,,,32,8
 2020-03-07T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,50,,,47,3
 2020-03-07T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,6,,,3,3
@@ -1731,10 +1731,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-08T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,14,,,14,0
 2020-03-08T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-08T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-08T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,9,,,9,0
-2020-03-08T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-08T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-08T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,23,,,14,9
+2020-03-08T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,9,,,9,0
+2020-03-08T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-08T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-08T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,23,,,14,9
 2020-03-08T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,60,,,40,20
 2020-03-08T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,58,,,50,8
 2020-03-08T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,19,,,6,13
@@ -1859,10 +1859,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-09T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,14,,,14,0
 2020-03-09T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-09T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-09T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,9,,,9,0
-2020-03-09T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-09T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-09T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,33,,,23,10
+2020-03-09T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,9,,,9,0
+2020-03-09T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-09T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-09T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,33,,,23,10
 2020-03-09T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,63,,,60,3
 2020-03-09T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,58,,,58,0
 2020-03-09T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,18,,,19,-1
@@ -1987,10 +1987,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-10T18:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,15,,,14,1
 2020-03-10T18:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-10T18:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-10T18:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,38,,,9,29
-2020-03-10T18:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-10T18:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-10T18:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,52,,,33,19
+2020-03-10T18:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,38,,,9,29
+2020-03-10T18:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-10T18:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-10T18:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,52,,,33,19
 2020-03-10T18:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,65,,,63,2
 2020-03-10T18:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,58,,,58,0
 2020-03-10T18:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,20,,,18,2
@@ -2115,10 +2115,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-11T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,16,,,15,1
 2020-03-11T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-11T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-11T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,75,,,38,37
-2020-03-11T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-11T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-11T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,77,,,52,25
+2020-03-11T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,75,,,38,37
+2020-03-11T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-11T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-11T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,77,,,52,25
 2020-03-11T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,105,,,65,40
 2020-03-11T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,68,,,58,10
 2020-03-11T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,36,,,20,16
@@ -2243,10 +2243,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-12T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,16,,,16,0
 2020-03-12T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-12T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-12T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,104,,,75,29
-2020-03-12T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-12T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-12T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,107,,,77,30
+2020-03-12T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,104,,,75,29
+2020-03-12T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-12T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-12T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,107,,,77,30
 2020-03-12T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,132,,,105,27
 2020-03-12T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,69,,,68,1
 2020-03-12T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,39,,,36,3
@@ -2371,10 +2371,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-13T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,17,,,16,1
 2020-03-13T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-13T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-13T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,125,,,104,21
-2020-03-13T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-13T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-13T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,163,,,107,56
+2020-03-13T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,125,,,104,21
+2020-03-13T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-13T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-13T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,163,,,107,56
 2020-03-13T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,136,,,132,4
 2020-03-13T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,70,,,69,1
 2020-03-13T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,48,,,39,9
@@ -2499,10 +2499,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-14T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,17,,,17,0
 2020-03-14T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-14T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-14T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,173,,,125,48
-2020-03-14T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-14T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-14T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,206,,,163,43
+2020-03-14T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,173,,,125,48
+2020-03-14T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-14T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-14T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,206,,,163,43
 2020-03-14T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,182,,,136,46
 2020-03-14T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,87,,,70,17
 2020-03-14T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,48,,,48,0
@@ -2627,10 +2627,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-15T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,17,,,17,0
 2020-03-15T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-15T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-15T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,204,,,173,31
-2020-03-15T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-15T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-15T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,378,,,206,172
+2020-03-15T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,204,,,173,31
+2020-03-15T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-15T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-15T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,378,,,206,172
 2020-03-15T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,207,,,182,25
 2020-03-15T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,87,,,87,0
 2020-03-15T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,50,,,48,2
@@ -2755,10 +2755,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-16T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,21,,,17,4
 2020-03-16T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-16T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-16T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,241,,,204,37
-2020-03-16T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-16T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-16T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,378,,,378,0
+2020-03-16T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,241,,,204,37
+2020-03-16T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-16T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-16T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,378,,,378,0
 2020-03-16T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,273,,,207,66
 2020-03-16T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,87,,,87,0
 2020-03-16T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,67,,,50,17
@@ -2883,10 +2883,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-17T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,25,,,21,4
 2020-03-17T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,0,,,0,0
 2020-03-17T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,0,,,0,0
-2020-03-17T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,291,,,241,50
-2020-03-17T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-17T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-17T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,385,,,378,7
+2020-03-17T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,291,,,241,50
+2020-03-17T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-17T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-17T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,385,,,378,7
 2020-03-17T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,323,,,273,50
 2020-03-17T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,90,,,87,3
 2020-03-17T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,96,,,67,29
@@ -3011,10 +3011,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-18T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,24,,,25,-1
 2020-03-18T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,3,,,0,3
 2020-03-18T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,1,,,0,1
-2020-03-18T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,376,,,291,85
-2020-03-18T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-18T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-18T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,455,,,385,70
+2020-03-18T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,376,,,291,85
+2020-03-18T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-18T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-18T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,455,,,385,70
 2020-03-18T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,374,,,323,51
 2020-03-18T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,101,,,90,11
 2020-03-18T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,109,,,96,13
@@ -3139,10 +3139,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-19T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,33,,,24,9
 2020-03-19T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,3,6
 2020-03-19T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,1,3
-2020-03-19T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,436,,,376,60
-2020-03-19T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-19T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-19T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,523,,,455,68
+2020-03-19T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,436,,,376,60
+2020-03-19T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-19T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-19T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,523,,,455,68
 2020-03-19T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,374,,,374,0
 2020-03-19T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,101,,,101,0
 2020-03-19T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,109,,,109,0
@@ -3267,10 +3267,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-20T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,39,,,33,6
 2020-03-20T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,7,,,9,-2
 2020-03-20T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,4,0
-2020-03-20T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,548,,,436,112
-2020-03-20T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-20T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-20T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,642,,,523,119
+2020-03-20T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,548,,,436,112
+2020-03-20T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-20T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-20T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,642,,,523,119
 2020-03-20T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,595,,,374,221
 2020-03-20T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,151,,,101,50
 2020-03-20T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,175,,,109,66
@@ -3395,10 +3395,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-21T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,49,,,39,10
 2020-03-21T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,8,,,7,1
 2020-03-21T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,4,0
-2020-03-21T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,621,,,548,73
-2020-03-21T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-21T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-21T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,782,,,642,140
+2020-03-21T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,621,,,548,73
+2020-03-21T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-21T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-21T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,782,,,642,140
 2020-03-21T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,654,,,595,59
 2020-03-21T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,166,,,151,15
 2020-03-21T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,182,,,175,7
@@ -3523,10 +3523,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-22T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,53,,,49,4
 2020-03-22T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,8,1
 2020-03-22T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,4,0
-2020-03-22T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,678,,,621,57
-2020-03-22T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-22T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-22T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,954,,,782,172
+2020-03-22T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,678,,,621,57
+2020-03-22T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-22T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-22T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,954,,,782,172
 2020-03-22T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,760,,,654,106
 2020-03-22T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,181,,,166,15
 2020-03-22T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,243,,,182,61
@@ -3651,10 +3651,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-23T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,54,,,53,1
 2020-03-23T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,9,0
 2020-03-23T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,4,0
-2020-03-23T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,724,,,678,46
-2020-03-23T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-23T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-23T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1023,,,954,69
+2020-03-23T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,724,,,678,46
+2020-03-23T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-23T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-23T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1023,,,954,69
 2020-03-23T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,817,,,760,57
 2020-03-23T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,209,,,181,28
 2020-03-23T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,253,,,243,10
@@ -3779,10 +3779,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-24T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,60,,,54,6
 2020-03-24T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,9,0
 2020-03-24T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,4,0
-2020-03-24T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,781,,,724,57
-2020-03-24T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-24T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-24T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1110,,,1023,87
+2020-03-24T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,781,,,724,57
+2020-03-24T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-24T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-24T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1110,,,1023,87
 2020-03-24T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,946,,,817,129
 2020-03-24T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,235,,,209,26
 2020-03-24T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,280,,,253,27
@@ -3907,10 +3907,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-25T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,60,,,60,0
 2020-03-25T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,9,0
 2020-03-25T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,4,,,4,0
-2020-03-25T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,858,,,781,77
-2020-03-25T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-25T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-25T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1222,,,1110,112
+2020-03-25T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,858,,,781,77
+2020-03-25T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-25T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-25T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1222,,,1110,112
 2020-03-25T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,946,,,946,0
 2020-03-25T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,261,,,235,26
 2020-03-25T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,327,,,280,47
@@ -4035,10 +4035,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-26T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,85,,,60,25
 2020-03-26T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,9,0
 2020-03-26T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,9,,,4,5
-2020-03-26T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,906,,,858,48
-2020-03-26T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-26T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-26T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1297,,,1222,75
+2020-03-26T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,906,,,858,48
+2020-03-26T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-26T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-26T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1297,,,1222,75
 2020-03-26T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,980,,,946,34
 2020-03-26T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,282,,,261,21
 2020-03-26T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,336,,,327,9
@@ -4163,10 +4163,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-27T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,91,,,85,6
 2020-03-27T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,9,,,9,0
 2020-03-27T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,9,,,9,0
-2020-03-27T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1003,,,906,97
-2020-03-27T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-27T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-27T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1391,,,1297,94
+2020-03-27T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1003,,,906,97
+2020-03-27T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-27T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-27T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1391,,,1297,94
 2020-03-27T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1106,,,980,126
 2020-03-27T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,303,,,282,21
 2020-03-27T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,367,,,336,31
@@ -4291,10 +4291,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-28T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,97,,,91,6
 2020-03-28T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,13,,,9,4
 2020-03-28T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,13,,,9,4
-2020-03-28T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1109,,,1003,106
-2020-03-28T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-28T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-28T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1505,,,1391,114
+2020-03-28T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1109,,,1003,106
+2020-03-28T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-28T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-28T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1505,,,1391,114
 2020-03-28T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1197,,,1106,91
 2020-03-28T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,318,,,303,15
 2020-03-28T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,399,,,367,32
@@ -4419,10 +4419,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-29T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,108,,,97,11
 2020-03-29T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,10,,,13,-3
 2020-03-29T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,9,,,13,-4
-2020-03-29T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1214,,,1109,105
-2020-03-29T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-29T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-29T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1594,,,1505,89
+2020-03-29T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1214,,,1109,105
+2020-03-29T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-29T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-29T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1594,,,1505,89
 2020-03-29T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1255,,,1197,58
 2020-03-29T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,328,,,318,10
 2020-03-29T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,439,,,399,40
@@ -4547,10 +4547,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-30T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,114,,,108,6
 2020-03-30T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,11,,,10,1
 2020-03-30T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,9,,,9,0
-2020-03-30T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1325,,,1214,111
-2020-03-30T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-30T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-30T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1682,,,1594,88
+2020-03-30T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1325,,,1214,111
+2020-03-30T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-30T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-30T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1682,,,1594,88
 2020-03-30T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1280,,,1255,25
 2020-03-30T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,402,,,328,74
 2020-03-30T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,471,,,439,32
@@ -4675,10 +4675,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-31T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,124,,,114,10
 2020-03-31T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,11,,,11,0
 2020-03-31T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,9,,,9,0
-2020-03-31T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1371,,,1325,46
-2020-03-31T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-31T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-03-31T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1746,,,1682,64
+2020-03-31T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1371,,,1325,46
+2020-03-31T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-31T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-03-31T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1746,,,1682,64
 2020-03-31T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1317,,,1280,37
 2020-03-31T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,434,,,402,32
 2020-03-31T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,490,,,471,19
@@ -4803,10 +4803,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-01T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,139,,,124,15
 2020-04-01T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,11,,,11,0
 2020-04-01T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,10,,,9,1
-2020-04-01T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1418,,,1371,47
-2020-04-01T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-01T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-01T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1870,,,1746,124
+2020-04-01T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1418,,,1371,47
+2020-04-01T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-01T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-01T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,1870,,,1746,124
 2020-04-01T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1378,,,1317,61
 2020-04-01T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,461,,,434,27
 2020-04-01T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,503,,,490,13
@@ -4931,10 +4931,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-02T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,142,,,139,3
 2020-04-02T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,12,,,11,1
 2020-04-02T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,11,,,10,1
-2020-04-02T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1479,,,1418,61
-2020-04-02T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-02T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-02T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2003,,,1870,133
+2020-04-02T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1479,,,1418,61
+2020-04-02T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-02T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-02T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2003,,,1870,133
 2020-04-02T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1428,,,1378,50
 2020-04-02T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,501,,,461,40
 2020-04-02T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,523,,,503,20
@@ -5059,10 +5059,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-03T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,149,,,142,7
 2020-04-03T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,12,,,12,0
 2020-04-03T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,15,,,11,4
-2020-04-03T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1559,,,1479,80
-2020-04-03T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-03T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-03T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2109,,,2003,106
+2020-04-03T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1559,,,1479,80
+2020-04-03T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-03T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-03T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2109,,,2003,106
 2020-04-03T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1491,,,1428,63
 2020-04-03T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,523,,,501,22
 2020-04-03T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,542,,,523,19
@@ -5187,10 +5187,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-04T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,154,,,149,5
 2020-04-04T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,12,,,12,0
 2020-04-04T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,40,,,15,25
-2020-04-04T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1592,,,1559,33
-2020-04-04T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-04T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-04T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2220,,,2109,111
+2020-04-04T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1592,,,1559,33
+2020-04-04T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-04T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-04T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2220,,,2109,111
 2020-04-04T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1591,,,1491,100
 2020-04-04T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,560,,,523,37
 2020-04-04T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,559,,,542,17
@@ -5315,10 +5315,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-05T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,166,,,154,12
 2020-04-05T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,14,,,12,2
 2020-04-05T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,44,,,40,4
-2020-04-05T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1644,,,1592,52
-2020-04-05T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-05T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-05T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2285,,,2220,65
+2020-04-05T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1644,,,1592,52
+2020-04-05T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-05T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-05T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2285,,,2220,65
 2020-04-05T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1763,,,1591,172
 2020-04-05T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,596,,,560,36
 2020-04-05T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,571,,,559,12
@@ -5443,10 +5443,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-06T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,166,,,166,0
 2020-04-06T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,14,,,14,0
 2020-04-06T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,44,,,44,0
-2020-04-06T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1722,,,1644,78
-2020-04-06T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-06T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-06T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2348,,,2285,63
+2020-04-06T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1722,,,1644,78
+2020-04-06T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-06T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-06T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2348,,,2285,63
 2020-04-06T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1904,,,1763,141
 2020-04-06T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,609,,,596,13
 2020-04-06T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,583,,,571,12
@@ -5571,10 +5571,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-07T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,166,,,166,0
 2020-04-07T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,15,,,14,1
 2020-04-07T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,43,,,44,-1
-2020-04-07T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1811,,,1722,89
-2020-04-07T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-07T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-07T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2476,,,2348,128
+2020-04-07T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1811,,,1722,89
+2020-04-07T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-07T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-07T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2476,,,2348,128
 2020-04-07T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,1946,,,1904,42
 2020-04-07T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,629,,,609,20
 2020-04-07T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,591,,,583,8
@@ -5699,10 +5699,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-08T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,166,,,166,0
 2020-04-08T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,17,,,15,2
 2020-04-08T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,43,,,43,0
-2020-04-08T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1835,,,1811,24
-2020-04-08T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-08T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-08T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2602,,,2476,126
+2020-04-08T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1835,,,1811,24
+2020-04-08T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-08T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-08T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2602,,,2476,126
 2020-04-08T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2016,,,1946,70
 2020-04-08T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,643,,,629,14
 2020-04-08T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,600,,,591,9
@@ -5827,10 +5827,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-09T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,176,,,166,10
 2020-04-09T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,15,,,17,-2
 2020-04-09T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,43,,,43,0
-2020-04-09T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1903,,,1835,68
-2020-04-09T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-09T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-09T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2708,,,2602,106
+2020-04-09T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1903,,,1835,68
+2020-04-09T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-09T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-09T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2708,,,2602,106
 2020-04-09T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2081,,,2016,65
 2020-04-09T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,655,,,643,12
 2020-04-09T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,621,,,600,21
@@ -5955,10 +5955,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-10T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,185,,,176,9
 2020-04-10T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,15,,,15,0
 2020-04-10T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,43,,,43,0
-2020-04-10T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1955,,,1903,52
-2020-04-10T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-10T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-10T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2816,,,2708,108
+2020-04-10T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1955,,,1903,52
+2020-04-10T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-10T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-10T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2816,,,2708,108
 2020-04-10T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2119,,,2081,38
 2020-04-10T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,703,,,655,48
 2020-04-10T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,628,,,621,7
@@ -6083,10 +6083,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-11T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,187,,,185,2
 2020-04-11T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,16,,,15,1
 2020-04-11T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,43,,,43,0
-2020-04-11T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1957,,,1955,2
-2020-04-11T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-11T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-11T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2970,,,2816,154
+2020-04-11T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,1957,,,1955,2
+2020-04-11T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-11T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-11T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,2970,,,2816,154
 2020-04-11T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2191,,,2119,72
 2020-04-11T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,745,,,703,42
 2020-04-11T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,653,,,628,25
@@ -6211,10 +6211,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-12T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,191,,,187,4
 2020-04-12T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,16,,,16,0
 2020-04-12T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,43,7
-2020-04-12T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2098,dc-IT-0001,dc-EN-0001,1957,141
-2020-04-12T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-12T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-12T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3053,,,2970,83
+2020-04-12T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2098,dc-IT-0001,dc-EN-0001,1957,141
+2020-04-12T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-12T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-12T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3053,,,2970,83
 2020-04-12T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2248,,,2191,57
 2020-04-12T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,779,,,745,34
 2020-04-12T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,662,,,653,9
@@ -6339,10 +6339,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-13T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,191,,,191,0
 2020-04-13T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,16,,,16,0
 2020-04-13T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-13T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2149,,,2098,51
-2020-04-13T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-13T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-13T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3126,,,3053,73
+2020-04-13T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2149,,,2098,51
+2020-04-13T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-13T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-13T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3126,,,3053,73
 2020-04-13T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2315,,,2248,67
 2020-04-13T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,793,,,779,14
 2020-04-13T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,679,,,662,17
@@ -6467,10 +6467,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-14T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,191,,,191,0
 2020-04-14T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,16,,,16,0
 2020-04-14T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-14T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2184,,,2149,35
-2020-04-14T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-14T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-14T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3141,,,3126,15
+2020-04-14T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2184,,,2149,35
+2020-04-14T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-14T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-14T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3141,,,3126,15
 2020-04-14T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2367,,,2315,52
 2020-04-14T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,868,,,793,75
 2020-04-14T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,702,,,679,23
@@ -6595,10 +6595,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-15T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,197,,,191,6
 2020-04-15T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,16,,,16,0
 2020-04-15T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-15T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2224,,,2184,40
-2020-04-15T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-15T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-15T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3220,,,3141,79
+2020-04-15T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2224,,,2184,40
+2020-04-15T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-15T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-15T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3220,,,3141,79
 2020-04-15T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2407,,,2367,40
 2020-04-15T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,897,,,868,29
 2020-04-15T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,717,,,702,15
@@ -6723,10 +6723,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-16T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,197,,,197,0
 2020-04-16T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,16,,,16,0
 2020-04-16T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-16T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2267,,,2224,43
-2020-04-16T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-16T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-16T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3294,,,3220,74
+2020-04-16T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2267,,,2224,43
+2020-04-16T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-16T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-16T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3294,,,3220,74
 2020-04-16T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2580,,,2407,173
 2020-04-16T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,925,,,897,28
 2020-04-16T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,719,,,717,2
@@ -6851,10 +6851,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-17T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,202,,,197,5
 2020-04-17T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,17,,,16,1
 2020-04-17T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-17T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2296,,,2267,29
-2020-04-17T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-17T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-17T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3376,,,3294,82
+2020-04-17T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2296,,,2267,29
+2020-04-17T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-17T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-17T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3376,,,3294,82
 2020-04-17T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2696,,,2580,116
 2020-04-17T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,957,,,925,32
 2020-04-17T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,728,,,719,9
@@ -6979,10 +6979,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-18T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,202,,,202,0
 2020-04-18T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,17,,,17,0
 2020-04-18T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-18T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2325,,,2296,29
-2020-04-18T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-18T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-18T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3431,,,3376,55
+2020-04-18T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2325,,,2296,29
+2020-04-18T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-18T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-18T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3431,,,3376,55
 2020-04-18T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2752,,,2696,56
 2020-04-18T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1038,,,957,81
 2020-04-18T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,748,,,728,20
@@ -7107,10 +7107,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-19T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,211,,,202,9
 2020-04-19T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,17,1
 2020-04-19T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,50,,,50,0
-2020-04-19T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2380,,,2325,55
-2020-04-19T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-19T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-19T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3532,,,3431,101
+2020-04-19T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2380,,,2325,55
+2020-04-19T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-19T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-19T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3532,,,3431,101
 2020-04-19T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2783,,,2752,31
 2020-04-19T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1064,,,1038,26
 2020-04-19T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,783,,,748,35
@@ -7235,10 +7235,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-20T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,212,,,211,1
 2020-04-20T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-20T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,51,,,50,1
-2020-04-20T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2394,,,2380,14
-2020-04-20T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-20T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-20T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3590,,,3532,58
+2020-04-20T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2394,,,2380,14
+2020-04-20T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-20T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-20T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3590,,,3532,58
 2020-04-20T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2815,,,2783,32
 2020-04-20T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1142,,,1064,78
 2020-04-20T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,787,,,783,4
@@ -7363,10 +7363,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-21T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,213,,,212,1
 2020-04-21T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-21T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,51,,,51,0
-2020-04-21T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2410,,,2394,16
-2020-04-21T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-21T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-21T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3614,,,3590,24
+2020-04-21T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2410,,,2394,16
+2020-04-21T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-21T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-21T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3614,,,3590,24
 2020-04-21T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,2899,,,2815,84
 2020-04-21T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1212,,,1142,70
 2020-04-21T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,808,,,787,21
@@ -7491,10 +7491,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-22T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,215,,,213,2
 2020-04-22T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-22T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,51,,,51,0
-2020-04-22T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2416,,,2410,6
-2020-04-22T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-22T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-22T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3646,,,3614,32
+2020-04-22T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2416,,,2410,6
+2020-04-22T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-22T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-22T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3646,,,3614,32
 2020-04-22T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3008,,,2899,109
 2020-04-22T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1255,,,1212,43
 2020-04-22T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,833,,,808,25
@@ -7619,10 +7619,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-23T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,215,,,215,0
 2020-04-23T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-23T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,51,,,51,0
-2020-04-23T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2435,,,2416,19
-2020-04-23T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-23T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-23T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3727,,,3646,81
+2020-04-23T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2435,,,2416,19
+2020-04-23T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-23T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-23T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3727,,,3646,81
 2020-04-23T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3034,,,3008,26
 2020-04-23T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1279,,,1255,24
 2020-04-23T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,860,,,833,27
@@ -7747,10 +7747,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-24T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,216,,,215,1
 2020-04-24T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-24T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,53,,,51,2
-2020-04-24T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2456,,,2435,21
-2020-04-24T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-24T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-24T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3776,,,3727,49
+2020-04-24T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2456,,,2435,21
+2020-04-24T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-24T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-24T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3776,,,3727,49
 2020-04-24T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3114,,,3034,80
 2020-04-24T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1343,,,1279,64
 2020-04-24T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,900,,,860,40
@@ -7875,10 +7875,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-25T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,221,,,216,5
 2020-04-25T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-25T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,53,,,53,0
-2020-04-25T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2476,,,2456,20
-2020-04-25T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-25T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-25T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3838,,,3776,62
+2020-04-25T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2476,,,2456,20
+2020-04-25T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-25T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-25T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3838,,,3776,62
 2020-04-25T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3180,,,3114,66
 2020-04-25T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1376,,,1343,33
 2020-04-25T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,915,,,900,15
@@ -8003,10 +8003,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-26T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,223,,,221,2
 2020-04-26T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-26T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,55,,,53,2
-2020-04-26T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2481,,,2476,5
-2020-04-26T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-26T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-26T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3894,,,3838,56
+2020-04-26T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2481,,,2476,5
+2020-04-26T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-26T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-26T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3894,,,3838,56
 2020-04-26T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3188,,,3180,8
 2020-04-26T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1428,,,1376,52
 2020-04-26T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,945,,,915,30
@@ -8131,10 +8131,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-27T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,223,,,223,0
 2020-04-27T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-27T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,55,,,55,0
-2020-04-27T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2496,,,2481,15
-2020-04-27T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-27T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-27T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3995,,,3894,101
+2020-04-27T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2496,,,2481,15
+2020-04-27T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-27T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-27T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,3995,,,3894,101
 2020-04-27T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3271,,,3188,83
 2020-04-27T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1456,,,1428,28
 2020-04-27T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,952,,,945,7
@@ -8259,10 +8259,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-28T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,224,,,223,1
 2020-04-28T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-28T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,55,,,55,0
-2020-04-28T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2498,,,2496,2
-2020-04-28T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-28T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-28T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4025,,,3995,30
+2020-04-28T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2498,,,2496,2
+2020-04-28T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-28T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-28T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4025,,,3995,30
 2020-04-28T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3318,,,3271,47
 2020-04-28T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1519,,,1456,63
 2020-04-28T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,961,,,952,9
@@ -8387,10 +8387,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-29T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,224,,,224,0
 2020-04-29T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-29T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,55,,,55,0
-2020-04-29T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2507,,,2498,9
-2020-04-29T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-29T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-29T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4069,,,4025,44
+2020-04-29T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2507,,,2498,9
+2020-04-29T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-29T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-29T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4069,,,4025,44
 2020-04-29T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3346,,,3318,28
 2020-04-29T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1546,,,1519,27
 2020-04-29T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,963,,,961,2
@@ -8515,10 +8515,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-30T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,224,,,224,0
 2020-04-30T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-04-30T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,56,,,55,1
-2020-04-30T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2518,,,2507,11
-2020-04-30T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-30T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-04-30T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4116,,,4069,47
+2020-04-30T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2518,,,2507,11
+2020-04-30T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-30T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-04-30T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4116,,,4069,47
 2020-04-30T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3417,,,3346,71
 2020-04-30T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1572,,,1546,26
 2020-04-30T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,966,,,963,3
@@ -8643,10 +8643,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-01T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,226,,,224,2
 2020-05-01T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,18,,,18,0
 2020-05-01T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,56,,,56,0
-2020-05-01T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2528,,,2518,10
-2020-05-01T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-01T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-01T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4132,,,4116,16
+2020-05-01T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2528,,,2518,10
+2020-05-01T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-01T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-01T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4132,,,4116,16
 2020-05-01T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3491,,,3417,74
 2020-05-01T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1600,,,1572,28
 2020-05-01T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,970,,,966,4
@@ -8771,10 +8771,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-02T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,226,,,226,0
 2020-05-02T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,18,1
 2020-05-02T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,56,,,56,0
-2020-05-02T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2535,,,2528,7
-2020-05-02T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-02T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-02T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4181,,,4132,49
+2020-05-02T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2535,,,2528,7
+2020-05-02T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-02T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-02T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4181,,,4132,49
 2020-05-02T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3559,,,3491,68
 2020-05-02T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1607,,,1600,7
 2020-05-02T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,978,,,970,8
@@ -8899,10 +8899,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-03T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,226,,,226,0
 2020-05-03T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-03T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,56,,,56,0
-2020-05-03T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2536,,,2535,1
-2020-05-03T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-03T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-03T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4247,,,4181,66
+2020-05-03T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2536,,,2535,1
+2020-05-03T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-03T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-03T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4247,,,4181,66
 2020-05-03T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3584,,,3559,25
 2020-05-03T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1619,,,1607,12
 2020-05-03T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,980,,,978,2
@@ -9027,10 +9027,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-04T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,226,,,226,0
 2020-05-04T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-04T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,56,,,56,0
-2020-05-04T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2541,,,2536,5
-2020-05-04T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-04T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-04T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4258,,,4247,11
+2020-05-04T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2541,,,2536,5
+2020-05-04T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-04T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-04T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4258,,,4247,11
 2020-05-04T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3593,,,3584,9
 2020-05-04T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1623,,,1619,4
 2020-05-04T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,992,,,980,12
@@ -9155,10 +9155,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-05T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,226,,,226,0
 2020-05-05T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-05T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,56,,,56,0
-2020-05-05T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2542,,,2541,1
-2020-05-05T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-05T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-05T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4261,,,4258,3
+2020-05-05T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2542,,,2541,1
+2020-05-05T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-05T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-05T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4261,,,4258,3
 2020-05-05T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3606,,,3593,13
 2020-05-05T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1629,,,1623,6
 2020-05-05T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,993,,,992,1
@@ -9283,10 +9283,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-06T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,228,,,226,2
 2020-05-06T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-06T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,56,1
-2020-05-06T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2543,,,2542,1
-2020-05-06T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-06T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-06T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4280,,,4261,19
+2020-05-06T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2543,,,2542,1
+2020-05-06T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-06T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-06T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4280,,,4261,19
 2020-05-06T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3622,,,3606,16
 2020-05-06T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1641,,,1629,12
 2020-05-06T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,997,,,993,4
@@ -9411,10 +9411,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-07T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,229,,,228,1
 2020-05-07T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-07T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-07T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2552,,,2543,9
-2020-05-07T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-07T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-07T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4283,,,4280,3
+2020-05-07T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2552,,,2543,9
+2020-05-07T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-07T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-07T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4283,,,4280,3
 2020-05-07T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3654,,,3622,32
 2020-05-07T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1655,,,1641,14
 2020-05-07T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1002,,,997,5
@@ -9539,10 +9539,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-08T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,251,,,229,22
 2020-05-08T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-08T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-08T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2558,,,2552,6
-2020-05-08T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-08T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-08T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4285,,,4283,2
+2020-05-08T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2558,,,2552,6
+2020-05-08T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-08T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-08T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4285,,,4283,2
 2020-05-08T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3712,,,3654,58
 2020-05-08T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1666,,,1655,11
 2020-05-08T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1002,,,1002,0
@@ -9667,10 +9667,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-09T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,271,,,251,20
 2020-05-09T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-09T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-09T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2567,,,2558,9
-2020-05-09T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-09T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-09T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4292,,,4285,7
+2020-05-09T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2567,,,2558,9
+2020-05-09T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-09T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-09T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4292,,,4285,7
 2020-05-09T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3723,,,3712,11
 2020-05-09T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1671,,,1666,5
 2020-05-09T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1007,,,1002,5
@@ -9795,10 +9795,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-10T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,294,,,271,23
 2020-05-10T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-10T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-10T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2569,,,2567,2
-2020-05-10T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-10T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-10T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4295,,,4292,3
+2020-05-10T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2569,,,2567,2
+2020-05-10T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-10T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-10T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4295,,,4292,3
 2020-05-10T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3730,,,3723,7
 2020-05-10T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1679,,,1671,8
 2020-05-10T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1015,,,1007,8
@@ -9923,10 +9923,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-11T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,307,,,294,13
 2020-05-11T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-11T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-11T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2572,,,2569,3
-2020-05-11T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-11T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-11T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4297,,,4295,2
+2020-05-11T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2572,,,2569,3
+2020-05-11T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-11T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-11T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4297,,,4295,2
 2020-05-11T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3732,,,3730,2
 2020-05-11T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1685,,,1679,6
 2020-05-11T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1015,,,1015,0
@@ -10051,10 +10051,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-12T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,310,,,307,3
 2020-05-12T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-12T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-12T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2572,,,2572,0
-2020-05-12T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-12T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-12T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4303,,,4297,6
+2020-05-12T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2572,,,2572,0
+2020-05-12T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-12T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-12T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4303,,,4297,6
 2020-05-12T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3744,,,3732,12
 2020-05-12T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1690,,,1685,5
 2020-05-12T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1016,,,1015,1
@@ -10179,10 +10179,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-13T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,325,,,310,15
 2020-05-13T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-13T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-13T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2575,,,2572,3
-2020-05-13T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-13T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-13T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4312,,,4303,9
+2020-05-13T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2575,,,2572,3
+2020-05-13T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-13T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-13T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4312,,,4303,9
 2020-05-13T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3755,,,3744,11
 2020-05-13T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1699,,,1690,9
 2020-05-13T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1021,,,1016,5
@@ -10307,10 +10307,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-14T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,327,,,325,2
 2020-05-14T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-14T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-14T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2578,,,2575,3
-2020-05-14T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-14T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-14T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4315,,,4312,3
+2020-05-14T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2578,,,2575,3
+2020-05-14T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-14T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-14T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4315,,,4312,3
 2020-05-14T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3769,,,3755,14
 2020-05-14T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1711,,,1699,12
 2020-05-14T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1022,,,1021,1
@@ -10435,10 +10435,10 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-15T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,331,,,327,4
 2020-05-15T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
 2020-05-15T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
-2020-05-15T17:00:00,ITA,4,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2578,,,2578,0
-2020-05-15T17:00:00,ITA,4,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-15T17:00:00,ITA,4,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
-2020-05-15T17:00:00,ITA,4,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4318,,,4315,3
+2020-05-15T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2578,,,2578,0
+2020-05-15T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-15T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-15T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4318,,,4315,3
 2020-05-15T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3779,,,3769,10
 2020-05-15T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1723,,,1711,12
 2020-05-15T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1022,,,1022,0
@@ -10495,3 +10495,131 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-05-15T17:00:00,ITA,5,Veneto,27,Venezia,VE,45.43490485,12.33845213,2626,,,2622,4
 2020-05-15T17:00:00,ITA,5,Veneto,23,Verona,VR,45.43839046,10.99352685,4997,,,4978,19
 2020-05-15T17:00:00,ITA,5,Veneto,24,Vicenza,VI,45.547497,11.54597109,2808,,,2795,13
+2020-05-16T17:00:00,ITA,13,Abruzzo,69,Chieti,CH,42.35103167,14.16754574,802,,,783,19
+2020-05-16T17:00:00,ITA,13,Abruzzo,979,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,13,Abruzzo,66,L'Aquila,AQ,42.35122196,13.39843823,246,,,246,0
+2020-05-16T17:00:00,ITA,13,Abruzzo,68,Pescara,PE,42.46458398,14.21364822,1483,,,1474,9
+2020-05-16T17:00:00,ITA,13,Abruzzo,67,Teramo,TE,42.6589177,13.70439971,647,,,645,2
+2020-05-16T17:00:00,ITA,17,Basilicata,980,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,17,Basilicata,77,Matera,MT,40.66751177,16.59792442,206,,,206,0
+2020-05-16T17:00:00,ITA,17,Basilicata,76,Potenza,PZ,40.63947052,15.80514834,184,,,183,1
+2020-05-16T17:00:00,ITA,18,Calabria,79,Catanzaro,CZ,38.90597598,16.59440194,211,,,211,0
+2020-05-16T17:00:00,ITA,18,Calabria,78,Cosenza,CS,39.29308681,16.25609692,467,,,466,1
+2020-05-16T17:00:00,ITA,18,Calabria,101,Crotone,KR,39.08036878,17.12538864,118,,,118,0
+2020-05-16T17:00:00,ITA,18,Calabria,982,In fase di definizione/aggiornamento,,0,0,2,,,2,0
+2020-05-16T17:00:00,ITA,18,Calabria,80,Reggio di Calabria,RC,38.10922769,15.6434527,272,,,270,2
+2020-05-16T17:00:00,ITA,18,Calabria,102,Vibo Valentia,VV,38.67624147,16.10157414,81,,,77,4
+2020-05-16T17:00:00,ITA,15,Campania,64,Avellino,AV,40.91404699,14.79528803,514,,,511,3
+2020-05-16T17:00:00,ITA,15,Campania,62,Benevento,BN,41.12969987,14.78151683,196,,,192,4
+2020-05-16T17:00:00,ITA,15,Campania,61,Caserta,CE,41.07465878,14.33240464,446,,,435,11
+2020-05-16T17:00:00,ITA,15,Campania,983,In fase di definizione/aggiornamento,,0,0,272,,,282,-10
+2020-05-16T17:00:00,ITA,15,Campania,63,Napoli,NA,40.83956555,14.25084984,2568,,,2563,5
+2020-05-16T17:00:00,ITA,15,Campania,65,Salerno,SA,40.67821961,14.7594026,672,,,671,1
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,37,Bologna,BO,44.49436681,11.3417208,4868,,,4853,15
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,38,Ferrara,FE,44.83599085,11.61868934,980,,,978,2
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,40,Forlì-Cesena,FC,44.22268559,12.04068608,1694,,,1694,0
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,984,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,36,Modena,MO,44.64600009,10.92615487,3857,,,3849,8
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,34,Parma,PR,44.80107394,10.32834985,3379,,,3353,26
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,33,Piacenza,PC,45.05193462,9.692632596,4417,,,4412,5
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,39,Ravenna,RA,44.41722493,12.19913936,1007,,,1005,2
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,35,Reggio nell'Emilia,RE,44.69735289,10.63007973,4888,,,4879,9
+2020-05-16T17:00:00,ITA,8,Emilia-Romagna,99,Rimini,RN,44.06090087,12.5656295,2092,,,2087,5
+2020-05-16T17:00:00,ITA,6,Friuli Venezia Giulia,31,Gorizia,GO,45.94149817,13.62212502,200,,,199,1
+2020-05-16T17:00:00,ITA,6,Friuli Venezia Giulia,985,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,6,Friuli Venezia Giulia,93,Pordenone,PN,45.95443546,12.66002909,665,,,662,3
+2020-05-16T17:00:00,ITA,6,Friuli Venezia Giulia,32,Trieste,TS,45.6494354,13.76813649,1345,,,1341,4
+2020-05-16T17:00:00,ITA,6,Friuli Venezia Giulia,30,Udine,UD,46.06255516,13.2348383,973,,,973,0
+2020-05-16T17:00:00,ITA,12,Lazio,60,Frosinone,FR,41.63964569,13.35117161,581,,,580,1
+2020-05-16T17:00:00,ITA,12,Lazio,986,In fase di definizione/aggiornamento,,0,0,110,,,110,0
+2020-05-16T17:00:00,ITA,12,Lazio,59,Latina,LT,41.46759465,12.90368482,513,,,511,2
+2020-05-16T17:00:00,ITA,12,Lazio,57,Rieti,RI,42.40488444,12.86205939,376,,,376,0
+2020-05-16T17:00:00,ITA,12,Lazio,58,Roma,RM,41.89277044,12.48366722,5397,,,5371,26
+2020-05-16T17:00:00,ITA,12,Lazio,56,Viterbo,VT,42.4173828,12.10473416,419,,,416,3
+2020-05-16T17:00:00,ITA,7,Liguria,10,Genova,GE,44.41149314,8.9326992,5260,,,5227,33
+2020-05-16T17:00:00,ITA,7,Liguria,8,Imperia,IM,43.88570648,8.027850298,1470,,,1459,11
+2020-05-16T17:00:00,ITA,7,Liguria,987,In fase di definizione/aggiornamento,,0,0,4,,,4,0
+2020-05-16T17:00:00,ITA,7,Liguria,11,La Spezia,SP,44.10704991,9.8281897,901,,,900,1
+2020-05-16T17:00:00,ITA,7,Liguria,9,Savona,SV,44.30750461,8.481108654,1476,,,1470,6
+2020-05-16T17:00:00,ITA,3,Lombardia,16,Bergamo,BG,45.69441368,9.668424528,12397,,,12371,26
+2020-05-16T17:00:00,ITA,3,Lombardia,17,Brescia,BS,45.53993052,10.21910323,14091,,,14008,83
+2020-05-16T17:00:00,ITA,3,Lombardia,13,Como,CO,45.8099912,9.085159546,3625,,,3612,13
+2020-05-16T17:00:00,ITA,3,Lombardia,19,Cremona,CR,45.13336675,10.02420865,6313,,,6303,10
+2020-05-16T17:00:00,ITA,3,Lombardia,988,In fase di definizione/aggiornamento,,0,0,1846,,,1825,21
+2020-05-16T17:00:00,ITA,3,Lombardia,97,Lecco,LC,45.85575781,9.393392246,2634,,,2616,18
+2020-05-16T17:00:00,ITA,3,Lombardia,98,Lodi,LO,45.31440693,9.503720769,3341,,,3325,16
+2020-05-16T17:00:00,ITA,3,Lombardia,20,Mantova,MN,45.15726772,10.79277363,3282,,,3281,1
+2020-05-16T17:00:00,ITA,3,Lombardia,15,Milano,MI,45.46679409,9.190347404,22041,,,21966,75
+2020-05-16T17:00:00,ITA,3,Lombardia,108,Monza e della Brianza,MB,45.58439043,9.273582472,5265,,,5219,46
+2020-05-16T17:00:00,ITA,3,Lombardia,18,Pavia,PV,45.18509264,9.160157191,4944,,,4919,25
+2020-05-16T17:00:00,ITA,3,Lombardia,14,Sondrio,SO,46.17099261,9.87147489,1363,,,1339,24
+2020-05-16T17:00:00,ITA,3,Lombardia,12,Varese,VA,45.81701677,8.822868344,3376,,,3335,41
+2020-05-16T17:00:00,ITA,11,Marche,42,Ancona,AN,43.61675973,13.5188753,1853,,,1840,13
+2020-05-16T17:00:00,ITA,11,Marche,44,Ascoli Piceno,AP,42.85322304,13.57691127,289,,,288,1
+2020-05-16T17:00:00,ITA,11,Marche,109,Fermo,FM,43.16058534,13.71839535,455,,,455,0
+2020-05-16T17:00:00,ITA,11,Marche,989,In fase di definizione/aggiornamento,,0,0,226,,,226,0
+2020-05-16T17:00:00,ITA,11,Marche,43,Macerata,MC,43.30023926,13.45307182,1092,,,1087,5
+2020-05-16T17:00:00,ITA,11,Marche,41,Pesaro e Urbino,PU,43.91014021,12.91345989,2727,,,2723,4
+2020-05-16T17:00:00,ITA,14,Molise,70,Campobasso,CB,41.55774754,14.65916051,334,,,331,3
+2020-05-16T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,0,0,19,,,19,0
+2020-05-16T17:00:00,ITA,14,Molise,94,Isernia,IS,41.58800826,14.22575407,57,,,57,0
+2020-05-16T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,46.49933453,11.35662422,2578,,,2578,0
+2020-05-16T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,46.06893511,11.12123097,4326,,,4318,8
+2020-05-16T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,44.91297351,8.615401155,3789,,,3779,10
+2020-05-16T17:00:00,ITA,1,Piemonte,5,Asti,AT,44.89912921,8.204142547,1741,,,1723,18
+2020-05-16T17:00:00,ITA,1,Piemonte,96,Biella,BI,45.5665112,8.054082167,1023,,,1022,1
+2020-05-16T17:00:00,ITA,1,Piemonte,4,Cuneo,CN,44.39329625,7.551171632,2685,,,2679,6
+2020-05-16T17:00:00,ITA,1,Piemonte,991,In fase di definizione/aggiornamento,,0,0,351,,,354,-3
+2020-05-16T17:00:00,ITA,1,Piemonte,3,Novara,NO,45.44588506,8.621915884,2570,,,2565,5
+2020-05-16T17:00:00,ITA,1,Piemonte,1,Torino,TO,45.0732745,7.680687483,14980,,,14896,84
+2020-05-16T17:00:00,ITA,1,Piemonte,103,Verbano-Cusio-Ossola,VB,45.9214455,8.551078753,1100,,,1093,7
+2020-05-16T17:00:00,ITA,1,Piemonte,2,Vercelli,VC,45.32398135,8.423234312,1244,,,1235,9
+2020-05-16T17:00:00,ITA,16,Puglia,72,Bari,BA,41.12559576,16.86736689,1434,,,1432,2
+2020-05-16T17:00:00,ITA,16,Puglia,110,Barletta-Andria-Trani,BT,41.22705039,16.29520432,382,,,382,0
+2020-05-16T17:00:00,ITA,16,Puglia,74,Brindisi,BR,40.63848545,17.94601575,619,,,615,4
+2020-05-16T17:00:00,ITA,16,Puglia,71,Foggia,FG,41.46226865,15.54305094,1126,,,1125,1
+2020-05-16T17:00:00,ITA,16,Puglia,992,In fase di definizione/aggiornamento,,0,0,30,,,30,0
+2020-05-16T17:00:00,ITA,16,Puglia,75,Lecce,LE,40.35354285,18.1718973,508,,,507,1
+2020-05-16T17:00:00,ITA,16,Puglia,73,Taranto,TA,40.47354739,17.23237181,275,,,275,0
+2020-05-16T17:00:00,ITA,20,Sardegna,92,Cagliari,CA,39.21531192,9.110616306,247,,,246,1
+2020-05-16T17:00:00,ITA,20,Sardegna,993,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,20,Sardegna,91,Nuoro,NU,40.32318834,9.330296393,79,,,78,1
+2020-05-16T17:00:00,ITA,20,Sardegna,95,Oristano,OR,39.90381075,8.591183151,58,,,58,0
+2020-05-16T17:00:00,ITA,20,Sardegna,90,Sassari,SS,40.72667657,8.559667131,871,,,869,2
+2020-05-16T17:00:00,ITA,20,Sardegna,111,Sud Sardegna,SU,39.16641462,8.526242676,97,,,97,0
+2020-05-16T17:00:00,ITA,19,Sicilia,84,Agrigento,AG,37.30971088,13.5845749,141,,,141,0
+2020-05-16T17:00:00,ITA,19,Sicilia,85,Caltanissetta,CL,37.49213171,14.06184973,170,,,170,0
+2020-05-16T17:00:00,ITA,19,Sicilia,87,Catania,CT,37.50287803,15.08704691,1061,,,1059,2
+2020-05-16T17:00:00,ITA,19,Sicilia,86,Enna,EN,37.56705701,14.27909375,421,,,421,0
+2020-05-16T17:00:00,ITA,19,Sicilia,994,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,19,Sicilia,83,Messina,ME,38.19395845,15.55572302,560,,,558,2
+2020-05-16T17:00:00,ITA,19,Sicilia,82,Palermo,PA,38.11569725,13.3623567,555,,,551,4
+2020-05-16T17:00:00,ITA,19,Sicilia,88,Ragusa,RG,36.92509198,14.73069891,94,,,94,0
+2020-05-16T17:00:00,ITA,19,Sicilia,89,Siracusa,SR,37.05991687,15.29333182,241,,,241,0
+2020-05-16T17:00:00,ITA,19,Sicilia,81,Trapani,TP,38.01850065,12.51365684,139,,,139,0
+2020-05-16T17:00:00,ITA,9,Toscana,51,Arezzo,AR,43.46642752,11.88228844,669,,,669,0
+2020-05-16T17:00:00,ITA,9,Toscana,48,Firenze,FI,43.76923077,11.25588885,3385,,,3371,14
+2020-05-16T17:00:00,ITA,9,Toscana,53,Grosseto,GR,42.76026758,11.11356398,421,,,421,0
+2020-05-16T17:00:00,ITA,9,Toscana,995,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,9,Toscana,49,Livorno,LI,43.55234873,10.3086781,541,,,541,0
+2020-05-16T17:00:00,ITA,9,Toscana,46,Lucca,LU,43.84432283,10.50151366,1338,,,1336,2
+2020-05-16T17:00:00,ITA,9,Toscana,45,Massa Carrara,MS,44.03674425,10.14173829,1042,,,1037,5
+2020-05-16T17:00:00,ITA,9,Toscana,50,Pisa,PI,43.71553206,10.40127259,877,,,877,0
+2020-05-16T17:00:00,ITA,9,Toscana,47,Pistoia,PT,43.933465,10.91734146,661,,,656,5
+2020-05-16T17:00:00,ITA,9,Toscana,100,Prato,PO,43.88062274,11.09703315,550,,,546,4
+2020-05-16T17:00:00,ITA,9,Toscana,52,Siena,SI,43.31816374,11.33190988,429,,,429,0
+2020-05-16T17:00:00,ITA,10,Umbria,997,In fase di definizione/aggiornamento,,0,0,55,,,55,0
+2020-05-16T17:00:00,ITA,10,Umbria,54,Perugia,PG,43.10675841,12.38824698,997,,,997,0
+2020-05-16T17:00:00,ITA,10,Umbria,55,Terni,TR,42.56071258,12.6466875,370,,,370,0
+2020-05-16T17:00:00,ITA,2,Valle d'Aosta,7,Aosta,AO,45.73750286,7.320149366,1173,,,1172,1
+2020-05-16T17:00:00,ITA,2,Valle d'Aosta,998,In fase di definizione/aggiornamento,,0,0,0,,,0,0
+2020-05-16T17:00:00,ITA,5,Veneto,25,Belluno,BL,46.13837528,12.21704167,1151,,,1151,0
+2020-05-16T17:00:00,ITA,5,Veneto,999,In fase di definizione/aggiornamento,,0,0,347,,,337,10
+2020-05-16T17:00:00,ITA,5,Veneto,28,Padova,PD,45.40692987,11.87608718,3912,,,3908,4
+2020-05-16T17:00:00,ITA,5,Veneto,29,Rovigo,RO,45.07107289,11.79007,437,,,437,0
+2020-05-16T17:00:00,ITA,5,Veneto,26,Treviso,TV,45.66754571,12.24507363,2635,,,2625,10
+2020-05-16T17:00:00,ITA,5,Veneto,27,Venezia,VE,45.43490485,12.33845213,2630,,,2626,4
+2020-05-16T17:00:00,ITA,5,Veneto,23,Verona,VR,45.43839046,10.99352685,5002,,,4997,5
+2020-05-16T17:00:00,ITA,5,Veneto,24,Vicenza,VI,45.547497,11.54597109,2814,,,2808,6
