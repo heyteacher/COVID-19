@@ -15615,3 +15615,152 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-06-24T17:00:00,ITA,5,Veneto,27,Venezia,VE,45.43490485,12.33845213,2681,,,2681,0
 2020-06-24T17:00:00,ITA,5,Veneto,23,Verona,VR,45.43839046,10.99352685,5123,,,5122,1
 2020-06-24T17:00:00,ITA,5,Veneto,24,Vicenza,VI,45.547497,11.54597109,2860,,,2859,1
+2020-06-25T17:00:00,ITA,13,Abruzzo,69,Chieti,CH,,,816,,,630,186
+2020-06-25T17:00:00,ITA,13,Abruzzo,979,In fase di definizione/aggiornamento,,,,3,,,28,-25
+2020-06-25T17:00:00,ITA,13,Abruzzo,66,L'Aquila,AQ,,,224,,,224,0
+2020-06-25T17:00:00,ITA,13,Abruzzo,68,Pescara,PE,,,1585,,,1585,0
+2020-06-25T17:00:00,ITA,13,Abruzzo,67,Teramo,TE,,,631,,,816,-185
+2020-06-25T17:00:00,ITA,13,Abruzzo,979,fuori Regione/P.A.,,,,25,,,0,25
+2020-06-25T17:00:00,ITA,17,Basilicata,980,In fase di definizione/aggiornamento,,,,0,,,2,-2
+2020-06-25T17:00:00,ITA,17,Basilicata,77,Matera,MT,,,210,,,210,0
+2020-06-25T17:00:00,ITA,17,Basilicata,76,Potenza,PZ,,,189,,,189,0
+2020-06-25T17:00:00,ITA,17,Basilicata,980,fuori Regione/P.A.,,,,2,,,0,2
+2020-06-25T17:00:00,ITA,18,Calabria,79,Catanzaro,CZ,,,214,,,214,0
+2020-06-25T17:00:00,ITA,18,Calabria,78,Cosenza,CS,,,468,,,468,0
+2020-06-25T17:00:00,ITA,18,Calabria,101,Crotone,KR,,,118,,,118,0
+2020-06-25T17:00:00,ITA,18,Calabria,982,In fase di definizione/aggiornamento,,,,0,,,2,-2
+2020-06-25T17:00:00,ITA,18,Calabria,80,Reggio di Calabria,RC,,,289,,,289,0
+2020-06-25T17:00:00,ITA,18,Calabria,102,Vibo Valentia,VV,,,84,,,84,0
+2020-06-25T17:00:00,ITA,18,Calabria,982,fuori Regione/P.A.,,,,2,,,0,2
+2020-06-25T17:00:00,ITA,15,Campania,64,Avellino,AV,,,552,,,552,0
+2020-06-25T17:00:00,ITA,15,Campania,62,Benevento,BN,,,209,,,209,0
+2020-06-25T17:00:00,ITA,15,Campania,61,Caserta,CE,,,515,,,483,32
+2020-06-25T17:00:00,ITA,15,Campania,983,In fase di definizione/aggiornamento,,,,47,,,65,-18
+2020-06-25T17:00:00,ITA,15,Campania,63,Napoli,NA,,,2647,,,2644,3
+2020-06-25T17:00:00,ITA,15,Campania,65,Salerno,SA,,,692,,,692,0
+2020-06-25T17:00:00,ITA,15,Campania,983,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,37,Bologna,BO,,,5160,,,5129,31
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,38,Ferrara,FE,,,1031,,,1026,5
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,40,Forlì-Cesena,FC,,,1728,,,1724,4
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,984,In fase di definizione/aggiornamento,,,,22,,,439,-417
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,36,Modena,MO,,,3867,,,3866,1
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,34,Parma,PR,,,3640,,,3638,2
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,33,Piacenza,PC,,,4423,,,4422,1
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,39,Ravenna,RA,,,1021,,,1021,0
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,35,Reggio nell'Emilia,RE,,,4906,,,4903,3
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,99,Rimini,RN,,,2137,,,2136,1
+2020-06-25T17:00:00,ITA,8,Emilia-Romagna,984,fuori Regione/P.A.,,,,416,,,0,416
+2020-06-25T17:00:00,ITA,6,Friuli Venezia Giulia,31,Gorizia,GO,,,216,,,216,0
+2020-06-25T17:00:00,ITA,6,Friuli Venezia Giulia,985,In fase di definizione/aggiornamento,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,6,Friuli Venezia Giulia,93,Pordenone,PN,,,699,,,699,0
+2020-06-25T17:00:00,ITA,6,Friuli Venezia Giulia,32,Trieste,TS,,,1393,,,1393,0
+2020-06-25T17:00:00,ITA,6,Friuli Venezia Giulia,30,Udine,UD,,,997,,,997,0
+2020-06-25T17:00:00,ITA,6,Friuli Venezia Giulia,985,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,12,Lazio,60,Frosinone,FR,,,660,,,660,0
+2020-06-25T17:00:00,ITA,12,Lazio,986,In fase di definizione/aggiornamento,,,,24,,,100,-76
+2020-06-25T17:00:00,ITA,12,Lazio,59,Latina,LT,,,606,,,602,4
+2020-06-25T17:00:00,ITA,12,Lazio,57,Rieti,RI,,,411,,,411,0
+2020-06-25T17:00:00,ITA,12,Lazio,58,Roma,RM,,,5817,,,5810,7
+2020-06-25T17:00:00,ITA,12,Lazio,56,Viterbo,VT,,,457,,,456,1
+2020-06-25T17:00:00,ITA,12,Lazio,986,fuori Regione/P.A.,,,,76,,,0,76
+2020-06-25T17:00:00,ITA,7,Liguria,10,Genova,GE,,,5544,,,5529,15
+2020-06-25T17:00:00,ITA,7,Liguria,8,Imperia,IM,,,1492,,,1492,0
+2020-06-25T17:00:00,ITA,7,Liguria,987,In fase di definizione/aggiornamento,,,,317,,,522,-205
+2020-06-25T17:00:00,ITA,7,Liguria,11,La Spezia,SP,,,854,,,854,0
+2020-06-25T17:00:00,ITA,7,Liguria,9,Savona,SV,,,1543,,,1543,0
+2020-06-25T17:00:00,ITA,7,Liguria,987,fuori Regione/P.A.,,,,204,,,0,204
+2020-06-25T17:00:00,ITA,3,Lombardia,16,Bergamo,BG,,,14271,,,14192,79
+2020-06-25T17:00:00,ITA,3,Lombardia,17,Brescia,BS,,,15543,,,15519,24
+2020-06-25T17:00:00,ITA,3,Lombardia,13,Como,CO,,,4078,,,4070,8
+2020-06-25T17:00:00,ITA,3,Lombardia,19,Cremona,CR,,,6596,,,6590,6
+2020-06-25T17:00:00,ITA,3,Lombardia,988,In fase di definizione/aggiornamento,,,,1446,,,2073,-627
+2020-06-25T17:00:00,ITA,3,Lombardia,97,Lecco,LC,,,2821,,,2820,1
+2020-06-25T17:00:00,ITA,3,Lombardia,98,Lodi,LO,,,3566,,,3565,1
+2020-06-25T17:00:00,ITA,3,Lombardia,20,Mantova,MN,,,3463,,,3457,6
+2020-06-25T17:00:00,ITA,3,Lombardia,15,Milano,MI,,,24267,,,24239,28
+2020-06-25T17:00:00,ITA,3,Lombardia,108,Monza e della Brianza,MB,,,5745,,,5741,4
+2020-06-25T17:00:00,ITA,3,Lombardia,18,Pavia,PV,,,5554,,,5549,5
+2020-06-25T17:00:00,ITA,3,Lombardia,14,Sondrio,SO,,,1575,,,1569,6
+2020-06-25T17:00:00,ITA,3,Lombardia,12,Varese,VA,,,3878,,,3877,1
+2020-06-25T17:00:00,ITA,3,Lombardia,988,fuori Regione/P.A.,,,,628,,,0,628
+2020-06-25T17:00:00,ITA,11,Marche,42,Ancona,AN,,,1875,,,1875,0
+2020-06-25T17:00:00,ITA,11,Marche,44,Ascoli Piceno,AP,,,290,,,290,0
+2020-06-25T17:00:00,ITA,11,Marche,109,Fermo,FM,,,471,,,471,0
+2020-06-25T17:00:00,ITA,11,Marche,989,In fase di definizione/aggiornamento,,,,0,,,236,-236
+2020-06-25T17:00:00,ITA,11,Marche,43,Macerata,MC,,,1152,,,1149,3
+2020-06-25T17:00:00,ITA,11,Marche,41,Pesaro e Urbino,PU,,,2757,,,2758,-1
+2020-06-25T17:00:00,ITA,11,Marche,989,fuori Regione/P.A.,,,,236,,,0,236
+2020-06-25T17:00:00,ITA,14,Molise,70,Campobasso,CB,,,363,,,363,0
+2020-06-25T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,,,0,,,19,-19
+2020-06-25T17:00:00,ITA,14,Molise,94,Isernia,IS,,,62,,,62,0
+2020-06-25T17:00:00,ITA,14,Molise,990,fuori Regione/P.A.,,,,19,,,0,19
+2020-06-25T17:00:00,ITA,21,P.A. Bolzano,21,Bolzano,BZ,,,2634,,,2634,0
+2020-06-25T17:00:00,ITA,21,P.A. Bolzano,981,In fase di definizione/aggiornamento,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,21,P.A. Bolzano,981,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,22,P.A. Trento,996,In fase di definizione/aggiornamento,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,22,P.A. Trento,22,Trento,TN,,,4855,,,4852,3
+2020-06-25T17:00:00,ITA,22,P.A. Trento,996,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,1,Piemonte,6,Alessandria,AL,,,4063,,,4061,2
+2020-06-25T17:00:00,ITA,1,Piemonte,5,Asti,AT,,,1874,,,1874,0
+2020-06-25T17:00:00,ITA,1,Piemonte,96,Biella,BI,,,1044,,,1044,0
+2020-06-25T17:00:00,ITA,1,Piemonte,4,Cuneo,CN,,,2851,,,2850,1
+2020-06-25T17:00:00,ITA,1,Piemonte,991,In fase di definizione/aggiornamento,,,,94,,,356,-262
+2020-06-25T17:00:00,ITA,1,Piemonte,3,Novara,NO,,,2785,,,2780,5
+2020-06-25T17:00:00,ITA,1,Piemonte,1,Torino,TO,,,15870,,,15865,5
+2020-06-25T17:00:00,ITA,1,Piemonte,103,Verbano-Cusio-Ossola,VB,,,1133,,,1126,7
+2020-06-25T17:00:00,ITA,1,Piemonte,2,Vercelli,VC,,,1321,,,1320,1
+2020-06-25T17:00:00,ITA,1,Piemonte,991,fuori Regione/P.A.,,,,261,,,0,261
+2020-06-25T17:00:00,ITA,16,Puglia,72,Bari,BA,,,1491,,,1491,0
+2020-06-25T17:00:00,ITA,16,Puglia,110,Barletta-Andria-Trani,BT,,,380,,,380,0
+2020-06-25T17:00:00,ITA,16,Puglia,74,Brindisi,BR,,,659,,,659,0
+2020-06-25T17:00:00,ITA,16,Puglia,71,Foggia,FG,,,1170,,,1170,0
+2020-06-25T17:00:00,ITA,16,Puglia,992,In fase di definizione/aggiornamento,,,,0,,,29,-29
+2020-06-25T17:00:00,ITA,16,Puglia,75,Lecce,LE,,,520,,,520,0
+2020-06-25T17:00:00,ITA,16,Puglia,73,Taranto,TA,,,281,,,280,1
+2020-06-25T17:00:00,ITA,16,Puglia,992,fuori Regione/P.A.,,,,29,,,0,29
+2020-06-25T17:00:00,ITA,20,Sardegna,92,Cagliari,CA,,,251,,,250,1
+2020-06-25T17:00:00,ITA,20,Sardegna,993,In fase di definizione/aggiornamento,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,20,Sardegna,91,Nuoro,NU,,,78,,,78,0
+2020-06-25T17:00:00,ITA,20,Sardegna,95,Oristano,OR,,,61,,,61,0
+2020-06-25T17:00:00,ITA,20,Sardegna,90,Sassari,SS,,,873,,,873,0
+2020-06-25T17:00:00,ITA,20,Sardegna,111,Sud Sardegna,SU,,,99,,,99,0
+2020-06-25T17:00:00,ITA,20,Sardegna,993,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,19,Sicilia,84,Agrigento,AG,,,135,,,135,0
+2020-06-25T17:00:00,ITA,19,Sicilia,85,Caltanissetta,CL,,,186,,,186,0
+2020-06-25T17:00:00,ITA,19,Sicilia,87,Catania,CT,,,777,,,777,0
+2020-06-25T17:00:00,ITA,19,Sicilia,86,Enna,EN,,,438,,,438,0
+2020-06-25T17:00:00,ITA,19,Sicilia,994,In fase di definizione/aggiornamento,,,,24,,,24,0
+2020-06-25T17:00:00,ITA,19,Sicilia,83,Messina,ME,,,473,,,472,1
+2020-06-25T17:00:00,ITA,19,Sicilia,82,Palermo,PA,,,499,,,498,1
+2020-06-25T17:00:00,ITA,19,Sicilia,88,Ragusa,RG,,,87,,,87,0
+2020-06-25T17:00:00,ITA,19,Sicilia,89,Siracusa,SR,,,321,,,321,0
+2020-06-25T17:00:00,ITA,19,Sicilia,81,Trapani,TP,,,136,,,136,0
+2020-06-25T17:00:00,ITA,19,Sicilia,994,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,9,Toscana,51,Arezzo,AR,,,670,,,670,0
+2020-06-25T17:00:00,ITA,9,Toscana,48,Firenze,FI,,,3185,,,3185,0
+2020-06-25T17:00:00,ITA,9,Toscana,53,Grosseto,GR,,,395,,,394,1
+2020-06-25T17:00:00,ITA,9,Toscana,995,In fase di definizione/aggiornamento,,,,0,,,471,-471
+2020-06-25T17:00:00,ITA,9,Toscana,49,Livorno,LI,,,476,,,476,0
+2020-06-25T17:00:00,ITA,9,Toscana,46,Lucca,LU,,,1351,,,1351,0
+2020-06-25T17:00:00,ITA,9,Toscana,45,Massa Carrara,MS,,,1050,,,1050,0
+2020-06-25T17:00:00,ITA,9,Toscana,50,Pisa,PI,,,925,,,925,0
+2020-06-25T17:00:00,ITA,9,Toscana,47,Pistoia,PT,,,743,,,743,0
+2020-06-25T17:00:00,ITA,9,Toscana,100,Prato,PO,,,531,,,530,1
+2020-06-25T17:00:00,ITA,9,Toscana,52,Siena,SI,,,427,,,427,0
+2020-06-25T17:00:00,ITA,9,Toscana,995,fuori Regione/P.A.,,,,471,,,0,471
+2020-06-25T17:00:00,ITA,10,Umbria,997,In fase di definizione/aggiornamento,,,,0,,,56,-56
+2020-06-25T17:00:00,ITA,10,Umbria,54,Perugia,PG,,,1008,,,1008,0
+2020-06-25T17:00:00,ITA,10,Umbria,55,Terni,TR,,,375,,,375,0
+2020-06-25T17:00:00,ITA,10,Umbria,997,fuori Regione/P.A.,,,,56,,,0,56
+2020-06-25T17:00:00,ITA,2,Valle d'Aosta,7,Aosta,AO,,,1194,,,1194,0
+2020-06-25T17:00:00,ITA,2,Valle d'Aosta,998,In fase di definizione/aggiornamento,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,2,Valle d'Aosta,998,fuori Regione/P.A.,,,,0,,,0,0
+2020-06-25T17:00:00,ITA,5,Veneto,25,Belluno,BL,,,1185,,,1185,0
+2020-06-25T17:00:00,ITA,5,Veneto,999,In fase di definizione/aggiornamento,,,,24,,,347,-323
+2020-06-25T17:00:00,ITA,5,Veneto,28,Padova,PD,,,3947,,,3944,3
+2020-06-25T17:00:00,ITA,5,Veneto,29,Rovigo,RO,,,444,,,444,0
+2020-06-25T17:00:00,ITA,5,Veneto,26,Treviso,TV,,,2670,,,2669,1
+2020-06-25T17:00:00,ITA,5,Veneto,27,Venezia,VE,,,2681,,,2681,0
+2020-06-25T17:00:00,ITA,5,Veneto,23,Verona,VR,,,5123,,,5123,0
+2020-06-25T17:00:00,ITA,5,Veneto,24,Vicenza,VI,,,2859,,,2860,-1
+2020-06-25T17:00:00,ITA,5,Veneto,999,fuori Regione/P.A.,,,,324,,,0,324
