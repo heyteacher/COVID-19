@@ -41,21 +41,23 @@ Di seguito la definizione dei nuovi valori calcolati rispetto ai dataset ufficia
 **File giornalieri JSON:** 
 * `json-data/dpc-covid19-ita-andamento-nazionale-latest.json`
 * `json-data/dpc-covid19-ita-regioni-json.json` 
-
-| Nome campo                  | Descrizione                               | Description                     | Formato  |
-|-----------------------------|-------------------------------------------|---------------------------------|----------|
-| **totale_nuovi_casi**       | Totale nuovi casi                         | New amount positive cases       | Number   |
-| **totale_casi_ieri**        | Totale casi di ieri                       | Yesterday amount positive cases | Number   |
-| **nuovi_dimessi_guariti**   | Nuovi dimessi guariti rispetto ieri       | New amount recovered            | Number   |
-| **dimessi_guariti_ieri**    | Totale dimessi guariti di ieri            | Yesterday amount recovered      | Number   |
-| **nuovi_deceduti**          | Nuovi deceduti rispetto ieri              | New amount deaths               | Number   |
-| **deceduti_ieri**           | Totale decetuti di ieri                   | Yesterday amount deaths         | Number   |
-| **nuovi_terapia_intensiva** | Nuovi in terapia insensiva rispetto ieri  | New amount intensive cares      | Number   |
-| **terapia_intensiva_ieri**  | Totale in terapia intensiva ieri          | Yesterday intensive cares       | Number   |
-| **nuovi_tamponi**           | Nuovi tamponi rispetto ieri               | New amount test (swab)          | Number   |
-| **tamponi_ieri**            | Totale tamponi ieri                       | Yesterday amount test (swab)    | Number   |
-| **nuovi_casi_testati**      | Nuove persone testate rispetto ier        | New people tested (swab)        | Number   |
-| **casi_testati_ieri**       | Persone testate ieri                      | Yesterday people tested (swab)  | Number   |
+ 
+| Nome campo                       | Descrizione                               | Description                     | Formato  |
+|----------------------------------|-------------------------------------------|---------------------------------|----------|
+| **totale_nuovi_casi**            | Totale nuovi casi                         | New amount positive cases       | Number   |
+| **totale_casi_ieri**             | Totale casi di ieri                       | Yesterday amount positive cases | Number   |
+| **nuovi_ricoverati_con_sintomi** | Nuovi ricoverati rispetto ieri            | New amount hospitalized         | Number   |
+| **ricoverati_con_sintomi_ieri**  | Totale ricoverati di ieri                 | Yesterday amount hospitalized   | Number   |
+| **nuovi_dimessi_guariti**        | Nuovi dimessi guariti rispetto ieri       | New amount recovered            | Number   |
+| **dimessi_guariti_ieri**         | Totale dimessi guariti di ieri            | Yesterday amount recovered      | Number   |
+| **nuovi_deceduti**               | Nuovi deceduti rispetto ieri              | New amount deaths               | Number   |
+| **deceduti_ieri**                | Totale decetuti di ieri                   | Yesterday amount deaths         | Number   |
+| **nuovi_terapia_intensiva**      | Nuovi in terapia insensiva rispetto ieri  | New amount intensive cares      | Number   |
+| **terapia_intensiva_ieri**       | Totale in terapia intensiva ieri          | Yesterday intensive cares       | Number   |
+| **nuovi_tamponi**                | Nuovi tamponi rispetto ieri               | New amount test (swab)          | Number   |
+| **tamponi_ieri**                 | Totale tamponi ieri                       | Yesterday amount test (swab)    | Number   |
+| **nuovi_casi_testati**           | Nuove persone testate rispetto ier        | New people tested (swab)        | Number   |
+| **casi_testati_ieri**            | Persone testate ieri                      | Yesterday people tested (swab)  | Number   |
 
 __NOTA__: a partire del 01/04/2020 il repository ufficiale ha introdotto `nuovi_positivi` che corrisponde a `totale_nuovi_casi` di questo dataset
 
