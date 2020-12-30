@@ -1,6 +1,6 @@
 [
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -9,13 +9,13 @@
         "sigla_provincia": "CH",
         "lat": 42.35103167,
         "long": 14.16754574,
-        "totale_casi": 6964,
+        "totale_casi": 7058,
         "note": null,
-        "totale_casi_ieri": 6950,
-        "totale_nuovi_casi": 14
+        "totale_casi_ieri": 6964,
+        "totale_nuovi_casi": 94
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -24,13 +24,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 280,
+        "totale_casi": 279,
         "note": null,
-        "totale_casi_ieri": 279,
-        "totale_nuovi_casi": 1
+        "totale_casi_ieri": 280,
+        "totale_nuovi_casi": -1
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -39,13 +39,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 155,
+        "totale_casi": 176,
         "note": null,
         "totale_casi_ieri": 155,
-        "totale_nuovi_casi": 0
+        "totale_nuovi_casi": 21
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -54,13 +54,13 @@
         "sigla_provincia": "AQ",
         "lat": 42.35122196,
         "long": 13.39843823,
-        "totale_casi": 10850,
+        "totale_casi": 10913,
         "note": null,
-        "totale_casi_ieri": 10842,
-        "totale_nuovi_casi": 8
+        "totale_casi_ieri": 10850,
+        "totale_nuovi_casi": 63
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -69,13 +69,13 @@
         "sigla_provincia": "PE",
         "lat": 42.46458398,
         "long": 14.21364822,
-        "totale_casi": 7048,
+        "totale_casi": 7086,
         "note": null,
-        "totale_casi_ieri": 7029,
-        "totale_nuovi_casi": 19
+        "totale_casi_ieri": 7048,
+        "totale_nuovi_casi": 38
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -84,13 +84,13 @@
         "sigla_provincia": "TE",
         "lat": 42.6589177,
         "long": 13.70439971,
-        "totale_casi": 9283,
+        "totale_casi": 9346,
         "note": null,
-        "totale_casi_ieri": 9278,
-        "totale_nuovi_casi": 5
+        "totale_casi_ieri": 9283,
+        "totale_nuovi_casi": 63
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -99,13 +99,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 332,
+        "totale_casi": 336,
         "note": null,
-        "totale_casi_ieri": 330,
-        "totale_nuovi_casi": 2
+        "totale_casi_ieri": 332,
+        "totale_nuovi_casi": 4
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -120,7 +120,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -129,13 +129,13 @@
         "sigla_provincia": "MT",
         "lat": 40.66751177,
         "long": 16.59792442,
-        "totale_casi": 3486,
+        "totale_casi": 3512,
         "note": null,
-        "totale_casi_ieri": 3476,
-        "totale_nuovi_casi": 10
+        "totale_casi_ieri": 3486,
+        "totale_nuovi_casi": 26
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -144,13 +144,13 @@
         "sigla_provincia": "PZ",
         "lat": 40.63947052,
         "long": 15.80514834,
-        "totale_casi": 6748,
+        "totale_casi": 6831,
         "note": null,
-        "totale_casi_ieri": 6692,
-        "totale_nuovi_casi": 56
+        "totale_casi_ieri": 6748,
+        "totale_nuovi_casi": 83
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -159,13 +159,13 @@
         "sigla_provincia": "CZ",
         "lat": 38.90597598,
         "long": 16.59440194,
-        "totale_casi": 3252,
+        "totale_casi": 3308,
         "note": null,
-        "totale_casi_ieri": 3225,
-        "totale_nuovi_casi": 27
+        "totale_casi_ieri": 3252,
+        "totale_nuovi_casi": 56
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -174,13 +174,13 @@
         "sigla_provincia": "CS",
         "lat": 39.29308681,
         "long": 16.25609692,
-        "totale_casi": 6973,
+        "totale_casi": 7063,
         "note": null,
-        "totale_casi_ieri": 6919,
-        "totale_nuovi_casi": 54
+        "totale_casi_ieri": 6973,
+        "totale_nuovi_casi": 90
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -189,13 +189,13 @@
         "sigla_provincia": "KR",
         "lat": 39.08036878,
         "long": 17.12538864,
-        "totale_casi": 2189,
+        "totale_casi": 2194,
         "note": null,
-        "totale_casi_ieri": 2183,
-        "totale_nuovi_casi": 6
+        "totale_casi_ieri": 2189,
+        "totale_nuovi_casi": 5
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -206,11 +206,11 @@
         "long": null,
         "totale_casi": 359,
         "note": null,
-        "totale_casi_ieri": 358,
-        "totale_nuovi_casi": 1
+        "totale_casi_ieri": 359,
+        "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -225,7 +225,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -234,13 +234,13 @@
         "sigla_provincia": "RC",
         "lat": 38.10922769,
         "long": 15.6434527,
-        "totale_casi": 8683,
+        "totale_casi": 8810,
         "note": null,
-        "totale_casi_ieri": 8655,
-        "totale_nuovi_casi": 28
+        "totale_casi_ieri": 8683,
+        "totale_nuovi_casi": 127
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -249,13 +249,13 @@
         "sigla_provincia": "VV",
         "lat": 38.67624147,
         "long": 16.10157414,
-        "totale_casi": 1613,
+        "totale_casi": 1784,
         "note": null,
-        "totale_casi_ieri": 1566,
-        "totale_nuovi_casi": 47
+        "totale_casi_ieri": 1613,
+        "totale_nuovi_casi": 171
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -264,13 +264,13 @@
         "sigla_provincia": "AV",
         "lat": 40.91404699,
         "long": 14.79528803,
-        "totale_casi": 8830,
+        "totale_casi": 8864,
         "note": null,
-        "totale_casi_ieri": 8806,
-        "totale_nuovi_casi": 24
+        "totale_casi_ieri": 8830,
+        "totale_nuovi_casi": 34
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -279,13 +279,13 @@
         "sigla_provincia": "BN",
         "lat": 41.12969987,
         "long": 14.78151683,
-        "totale_casi": 4571,
+        "totale_casi": 4617,
         "note": null,
-        "totale_casi_ieri": 4538,
-        "totale_nuovi_casi": 33
+        "totale_casi_ieri": 4571,
+        "totale_nuovi_casi": 46
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -294,13 +294,13 @@
         "sigla_provincia": "CE",
         "lat": 41.07465878,
         "long": 14.33240464,
-        "totale_casi": 34327,
+        "totale_casi": 34552,
         "note": null,
-        "totale_casi_ieri": 34188,
-        "totale_nuovi_casi": 139
+        "totale_casi_ieri": 34327,
+        "totale_nuovi_casi": 225
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -315,7 +315,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -324,13 +324,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 68,
+        "totale_casi": 83,
         "note": null,
-        "totale_casi_ieri": 238,
-        "totale_nuovi_casi": -170
+        "totale_casi_ieri": 68,
+        "totale_nuovi_casi": 15
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -339,13 +339,13 @@
         "sigla_provincia": null,
         "lat": 40.83956555,
         "long": 14.25084984,
-        "totale_casi": 114271,
+        "totale_casi": 114635,
         "note": null,
-        "totale_casi_ieri": 113839,
-        "totale_nuovi_casi": 432
+        "totale_casi_ieri": 114271,
+        "totale_nuovi_casi": 364
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -354,13 +354,13 @@
         "sigla_provincia": "SA",
         "lat": 40.67821961,
         "long": 14.7594026,
-        "totale_casi": 25122,
+        "totale_casi": 25368,
         "note": null,
-        "totale_casi_ieri": 24955,
-        "totale_nuovi_casi": 167
+        "totale_casi_ieri": 25122,
+        "totale_nuovi_casi": 246
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -369,13 +369,13 @@
         "sigla_provincia": "BO",
         "lat": 44.49436681,
         "long": 11.3417208,
-        "totale_casi": 37708,
+        "totale_casi": 37965,
         "note": null,
-        "totale_casi_ieri": 37599,
-        "totale_nuovi_casi": 109
+        "totale_casi_ieri": 37708,
+        "totale_nuovi_casi": 257
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -384,13 +384,13 @@
         "sigla_provincia": "FE",
         "lat": 44.83599085,
         "long": 11.61868934,
-        "totale_casi": 8835,
+        "totale_casi": 8954,
         "note": null,
-        "totale_casi_ieri": 8796,
-        "totale_nuovi_casi": 39
+        "totale_casi_ieri": 8835,
+        "totale_nuovi_casi": 119
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -399,13 +399,13 @@
         "sigla_provincia": "FC",
         "lat": 44.22268559,
         "long": 12.04068608,
-        "totale_casi": 11934,
+        "totale_casi": 12045,
         "note": null,
-        "totale_casi_ieri": 11761,
-        "totale_nuovi_casi": 173
+        "totale_casi_ieri": 11934,
+        "totale_nuovi_casi": 111
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -414,13 +414,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 2063,
+        "totale_casi": 2073,
         "note": null,
-        "totale_casi_ieri": 2055,
-        "totale_nuovi_casi": 8
+        "totale_casi_ieri": 2063,
+        "totale_nuovi_casi": 10
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -429,13 +429,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 944,
+        "totale_casi": 957,
         "note": null,
-        "totale_casi_ieri": 946,
-        "totale_nuovi_casi": -2
+        "totale_casi_ieri": 944,
+        "totale_nuovi_casi": 13
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -444,13 +444,13 @@
         "sigla_provincia": "MO",
         "lat": 44.64600009,
         "long": 10.92615487,
-        "totale_casi": 29733,
+        "totale_casi": 29924,
         "note": null,
-        "totale_casi_ieri": 29634,
-        "totale_nuovi_casi": 99
+        "totale_casi_ieri": 29733,
+        "totale_nuovi_casi": 191
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -459,13 +459,13 @@
         "sigla_provincia": "PR",
         "lat": 44.80107394,
         "long": 10.32834985,
-        "totale_casi": 12460,
+        "totale_casi": 12551,
         "note": null,
-        "totale_casi_ieri": 12388,
-        "totale_nuovi_casi": 72
+        "totale_casi_ieri": 12460,
+        "totale_nuovi_casi": 91
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -474,13 +474,13 @@
         "sigla_provincia": "PC",
         "lat": 45.05193462,
         "long": 9.692632596,
-        "totale_casi": 14640,
+        "totale_casi": 14761,
         "note": null,
-        "totale_casi_ieri": 14535,
-        "totale_nuovi_casi": 105
+        "totale_casi_ieri": 14640,
+        "totale_nuovi_casi": 121
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -489,13 +489,13 @@
         "sigla_provincia": "RA",
         "lat": 44.41722493,
         "long": 12.19913936,
-        "totale_casi": 12325,
+        "totale_casi": 12559,
         "note": null,
-        "totale_casi_ieri": 12228,
-        "totale_nuovi_casi": 97
+        "totale_casi_ieri": 12325,
+        "totale_nuovi_casi": 234
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -504,13 +504,13 @@
         "sigla_provincia": "RE",
         "lat": 44.69735289,
         "long": 10.63007973,
-        "totale_casi": 23135,
+        "totale_casi": 23275,
         "note": null,
-        "totale_casi_ieri": 23033,
-        "totale_nuovi_casi": 102
+        "totale_casi_ieri": 23135,
+        "totale_nuovi_casi": 140
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -519,13 +519,13 @@
         "sigla_provincia": "RN",
         "lat": 44.06090087,
         "long": 12.5656295,
-        "totale_casi": 14192,
+        "totale_casi": 14332,
         "note": null,
-        "totale_casi_ieri": 14102,
-        "totale_nuovi_casi": 90
+        "totale_casi_ieri": 14192,
+        "totale_nuovi_casi": 140
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -534,13 +534,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 602,
+        "totale_casi": 613,
         "note": null,
-        "totale_casi_ieri": 589,
-        "totale_nuovi_casi": 13
+        "totale_casi_ieri": 602,
+        "totale_nuovi_casi": 11
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -549,13 +549,13 @@
         "sigla_provincia": "GO",
         "lat": 45.94149817,
         "long": 13.62212502,
-        "totale_casi": 5804,
+        "totale_casi": 5925,
         "note": null,
-        "totale_casi_ieri": 5744,
-        "totale_nuovi_casi": 60
+        "totale_casi_ieri": 5804,
+        "totale_nuovi_casi": 121
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -570,7 +570,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -579,13 +579,13 @@
         "sigla_provincia": "PN",
         "lat": 45.95443546,
         "long": 12.66002909,
-        "totale_casi": 10248,
+        "totale_casi": 10381,
         "note": null,
-        "totale_casi_ieri": 10146,
-        "totale_nuovi_casi": 102
+        "totale_casi_ieri": 10248,
+        "totale_nuovi_casi": 133
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -594,13 +594,13 @@
         "sigla_provincia": "TS",
         "lat": 45.6494354,
         "long": 13.76813649,
-        "totale_casi": 10242,
+        "totale_casi": 10420,
         "note": null,
-        "totale_casi_ieri": 10187,
-        "totale_nuovi_casi": 55
+        "totale_casi_ieri": 10242,
+        "totale_nuovi_casi": 178
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -609,13 +609,13 @@
         "sigla_provincia": "UD",
         "lat": 46.06255516,
         "long": 13.2348383,
-        "totale_casi": 21451,
+        "totale_casi": 21811,
         "note": null,
-        "totale_casi_ieri": 21188,
-        "totale_nuovi_casi": 263
+        "totale_casi_ieri": 21451,
+        "totale_nuovi_casi": 360
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -624,13 +624,13 @@
         "sigla_provincia": "FR",
         "lat": 41.63964569,
         "long": 13.35117161,
-        "totale_casi": 13381,
+        "totale_casi": 13574,
         "note": null,
-        "totale_casi_ieri": 13280,
-        "totale_nuovi_casi": 101
+        "totale_casi_ieri": 13381,
+        "totale_nuovi_casi": 193
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -639,13 +639,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 3459,
+        "totale_casi": 3474,
         "note": null,
-        "totale_casi_ieri": 3391,
-        "totale_nuovi_casi": 68
+        "totale_casi_ieri": 3459,
+        "totale_nuovi_casi": 15
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -660,7 +660,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -669,13 +669,13 @@
         "sigla_provincia": "LT",
         "lat": 41.46759465,
         "long": 12.90368482,
-        "totale_casi": 14352,
+        "totale_casi": 14360,
         "note": null,
-        "totale_casi_ieri": 14232,
-        "totale_nuovi_casi": 120
+        "totale_casi_ieri": 14352,
+        "totale_nuovi_casi": 8
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -684,13 +684,13 @@
         "sigla_provincia": "RI",
         "lat": 42.40488444,
         "long": 12.86205939,
-        "totale_casi": 5019,
+        "totale_casi": 5024,
         "note": null,
-        "totale_casi_ieri": 4774,
-        "totale_nuovi_casi": 245
+        "totale_casi_ieri": 5019,
+        "totale_nuovi_casi": 5
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -699,13 +699,13 @@
         "sigla_provincia": "RM",
         "lat": 41.89277044,
         "long": 12.48366722,
-        "totale_casi": 114941,
+        "totale_casi": 115935,
         "note": null,
-        "totale_casi_ieri": 114304,
-        "totale_nuovi_casi": 637
+        "totale_casi_ieri": 114941,
+        "totale_nuovi_casi": 994
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -714,13 +714,13 @@
         "sigla_provincia": "VT",
         "lat": 42.4173828,
         "long": 12.10473416,
-        "totale_casi": 8778,
+        "totale_casi": 8896,
         "note": null,
-        "totale_casi_ieri": 8731,
-        "totale_nuovi_casi": 47
+        "totale_casi_ieri": 8778,
+        "totale_nuovi_casi": 118
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -729,13 +729,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 1231,
+        "totale_casi": 1238,
         "note": null,
-        "totale_casi_ieri": 1227,
-        "totale_nuovi_casi": 4
+        "totale_casi_ieri": 1231,
+        "totale_nuovi_casi": 7
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -744,13 +744,13 @@
         "sigla_provincia": "GE",
         "lat": 44.41149314,
         "long": 8.9326992,
-        "totale_casi": 34819,
+        "totale_casi": 35060,
         "note": null,
-        "totale_casi_ieri": 34724,
-        "totale_nuovi_casi": 95
+        "totale_casi_ieri": 34819,
+        "totale_nuovi_casi": 241
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -759,13 +759,13 @@
         "sigla_provincia": "IM",
         "lat": 43.88570648,
         "long": 8.027850298,
-        "totale_casi": 6249,
+        "totale_casi": 6301,
         "note": null,
-        "totale_casi_ieri": 6209,
-        "totale_nuovi_casi": 40
+        "totale_casi_ieri": 6249,
+        "totale_nuovi_casi": 52
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -774,13 +774,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 1869,
+        "totale_casi": 1878,
         "note": null,
-        "totale_casi_ieri": 1859,
-        "totale_nuovi_casi": 10
+        "totale_casi_ieri": 1869,
+        "totale_nuovi_casi": 9
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -789,13 +789,13 @@
         "sigla_provincia": "SP",
         "lat": 44.10704991,
         "long": 9.8281897,
-        "totale_casi": 8117,
+        "totale_casi": 8171,
         "note": null,
-        "totale_casi_ieri": 8040,
-        "totale_nuovi_casi": 77
+        "totale_casi_ieri": 8117,
+        "totale_nuovi_casi": 54
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -804,13 +804,13 @@
         "sigla_provincia": "SV",
         "lat": 44.30750461,
         "long": 8.481108654,
-        "totale_casi": 7297,
+        "totale_casi": 7349,
         "note": null,
-        "totale_casi_ieri": 7218,
-        "totale_nuovi_casi": 79
+        "totale_casi_ieri": 7297,
+        "totale_nuovi_casi": 52
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -819,13 +819,13 @@
         "sigla_provincia": "BG",
         "lat": 45.69441368,
         "long": 9.668424528,
-        "totale_casi": 28033,
+        "totale_casi": 28103,
         "note": null,
-        "totale_casi_ieri": 28019,
-        "totale_nuovi_casi": 14
+        "totale_casi_ieri": 28033,
+        "totale_nuovi_casi": 70
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -834,13 +834,13 @@
         "sigla_provincia": "BS",
         "lat": 45.53993052,
         "long": 10.21910323,
-        "totale_casi": 41144,
+        "totale_casi": 41370,
         "note": null,
-        "totale_casi_ieri": 41039,
-        "totale_nuovi_casi": 105
+        "totale_casi_ieri": 41144,
+        "totale_nuovi_casi": 226
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -849,13 +849,13 @@
         "sigla_provincia": "CO",
         "lat": 45.8099912,
         "long": 9.085159546,
-        "totale_casi": 33510,
+        "totale_casi": 33609,
         "note": null,
-        "totale_casi_ieri": 33460,
-        "totale_nuovi_casi": 50
+        "totale_casi_ieri": 33510,
+        "totale_nuovi_casi": 99
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -864,13 +864,13 @@
         "sigla_provincia": "CR",
         "lat": 45.13336675,
         "long": 10.02420865,
-        "totale_casi": 14315,
+        "totale_casi": 14397,
         "note": null,
-        "totale_casi_ieri": 14277,
-        "totale_nuovi_casi": 38
+        "totale_casi_ieri": 14315,
+        "totale_nuovi_casi": 82
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -879,13 +879,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 5084,
+        "totale_casi": 5385,
         "note": null,
-        "totale_casi_ieri": 5062,
-        "totale_nuovi_casi": 22
+        "totale_casi_ieri": 5084,
+        "totale_nuovi_casi": 301
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -894,13 +894,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 8305,
+        "totale_casi": 7793,
         "note": null,
-        "totale_casi_ieri": 8299,
-        "totale_nuovi_casi": 6
+        "totale_casi_ieri": 8305,
+        "totale_nuovi_casi": -512
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -909,13 +909,13 @@
         "sigla_provincia": "LC",
         "lat": 45.85575781,
         "long": 9.393392246,
-        "totale_casi": 13135,
+        "totale_casi": 13195,
         "note": null,
-        "totale_casi_ieri": 13101,
-        "totale_nuovi_casi": 34
+        "totale_casi_ieri": 13135,
+        "totale_nuovi_casi": 60
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -924,13 +924,13 @@
         "sigla_provincia": "LO",
         "lat": 45.31440693,
         "long": 9.503720769,
-        "totale_casi": 10504,
+        "totale_casi": 10566,
         "note": null,
-        "totale_casi_ieri": 10475,
-        "totale_nuovi_casi": 29
+        "totale_casi_ieri": 10504,
+        "totale_nuovi_casi": 62
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -939,13 +939,13 @@
         "sigla_provincia": "MN",
         "lat": 45.15726772,
         "long": 10.79277363,
-        "totale_casi": 15815,
+        "totale_casi": 15985,
         "note": null,
-        "totale_casi_ieri": 15769,
-        "totale_nuovi_casi": 46
+        "totale_casi_ieri": 15815,
+        "totale_nuovi_casi": 170
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -954,13 +954,13 @@
         "sigla_provincia": "MI",
         "lat": 45.46679409,
         "long": 9.190347404,
-        "totale_casi": 171936,
+        "totale_casi": 172597,
         "note": null,
-        "totale_casi_ieri": 171680,
-        "totale_nuovi_casi": 256
+        "totale_casi_ieri": 171936,
+        "totale_nuovi_casi": 661
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -969,13 +969,13 @@
         "sigla_provincia": "MB",
         "lat": 45.58439043,
         "long": 9.273582472,
-        "totale_casi": 47957,
+        "totale_casi": 48078,
         "note": null,
-        "totale_casi_ieri": 47898,
-        "totale_nuovi_casi": 59
+        "totale_casi_ieri": 47957,
+        "totale_nuovi_casi": 121
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -984,13 +984,13 @@
         "sigla_provincia": "PV",
         "lat": 45.18509264,
         "long": 9.160157191,
-        "totale_casi": 24220,
+        "totale_casi": 24366,
         "note": null,
-        "totale_casi_ieri": 24146,
-        "totale_nuovi_casi": 74
+        "totale_casi_ieri": 24220,
+        "totale_nuovi_casi": 146
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -999,13 +999,13 @@
         "sigla_provincia": "SO",
         "lat": 46.17099261,
         "long": 9.87147489,
-        "totale_casi": 8413,
+        "totale_casi": 8464,
         "note": null,
-        "totale_casi_ieri": 8371,
-        "totale_nuovi_casi": 42
+        "totale_casi_ieri": 8413,
+        "totale_nuovi_casi": 51
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -1014,13 +1014,13 @@
         "sigla_provincia": "VA",
         "lat": 45.81701677,
         "long": 8.822868344,
-        "totale_casi": 51000,
+        "totale_casi": 51136,
         "note": null,
-        "totale_casi_ieri": 50932,
-        "totale_nuovi_casi": 68
+        "totale_casi_ieri": 51000,
+        "totale_nuovi_casi": 136
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1029,13 +1029,13 @@
         "sigla_provincia": "AN",
         "lat": 43.61675973,
         "long": 13.5188753,
-        "totale_casi": 11222,
+        "totale_casi": 11429,
         "note": null,
-        "totale_casi_ieri": 11099,
-        "totale_nuovi_casi": 123
+        "totale_casi_ieri": 11222,
+        "totale_nuovi_casi": 207
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1044,13 +1044,13 @@
         "sigla_provincia": "AP",
         "lat": 42.85322304,
         "long": 13.57691127,
-        "totale_casi": 5054,
+        "totale_casi": 5079,
         "note": null,
-        "totale_casi_ieri": 5018,
-        "totale_nuovi_casi": 36
+        "totale_casi_ieri": 5054,
+        "totale_nuovi_casi": 25
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1059,13 +1059,13 @@
         "sigla_provincia": "FM",
         "lat": 43.16058534,
         "long": 13.71839535,
-        "totale_casi": 4636,
+        "totale_casi": 4715,
         "note": null,
-        "totale_casi_ieri": 4553,
-        "totale_nuovi_casi": 83
+        "totale_casi_ieri": 4636,
+        "totale_nuovi_casi": 79
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1074,13 +1074,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 1400,
+        "totale_casi": 1424,
         "note": null,
-        "totale_casi_ieri": 1366,
-        "totale_nuovi_casi": 34
+        "totale_casi_ieri": 1400,
+        "totale_nuovi_casi": 24
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1095,7 +1095,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1104,13 +1104,13 @@
         "sigla_provincia": "MC",
         "lat": 43.30023926,
         "long": 13.45307182,
-        "totale_casi": 8808,
+        "totale_casi": 8933,
         "note": null,
-        "totale_casi_ieri": 8770,
-        "totale_nuovi_casi": 38
+        "totale_casi_ieri": 8808,
+        "totale_nuovi_casi": 125
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1119,13 +1119,13 @@
         "sigla_provincia": "PU",
         "lat": 43.91014021,
         "long": 12.91345989,
-        "totale_casi": 9216,
+        "totale_casi": 9341,
         "note": null,
-        "totale_casi_ieri": 9022,
-        "totale_nuovi_casi": 194
+        "totale_casi_ieri": 9216,
+        "totale_nuovi_casi": 125
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1134,13 +1134,13 @@
         "sigla_provincia": "CB",
         "lat": 41.55774754,
         "long": 14.65916051,
-        "totale_casi": 4136,
+        "totale_casi": 4170,
         "note": null,
-        "totale_casi_ieri": 4133,
-        "totale_nuovi_casi": 3
+        "totale_casi_ieri": 4136,
+        "totale_nuovi_casi": 34
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1151,11 +1151,11 @@
         "long": null,
         "totale_casi": 52,
         "note": null,
-        "totale_casi_ieri": 53,
-        "totale_nuovi_casi": -1
+        "totale_casi_ieri": 52,
+        "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1170,7 +1170,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1179,13 +1179,13 @@
         "sigla_provincia": "IS",
         "lat": 41.58800826,
         "long": 14.22575407,
-        "totale_casi": 2208,
+        "totale_casi": 2218,
         "note": null,
-        "totale_casi_ieri": 2203,
-        "totale_nuovi_casi": 5
+        "totale_casi_ieri": 2208,
+        "totale_nuovi_casi": 10
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -1194,13 +1194,13 @@
         "sigla_provincia": "BZ",
         "lat": 46.49933453,
         "long": 11.35662422,
-        "totale_casi": 29014,
+        "totale_casi": 29234,
         "note": null,
-        "totale_casi_ieri": 28923,
-        "totale_nuovi_casi": 91
+        "totale_casi_ieri": 29014,
+        "totale_nuovi_casi": 220
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -1215,7 +1215,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -1230,7 +1230,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -1245,7 +1245,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -1260,7 +1260,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -1269,13 +1269,13 @@
         "sigla_provincia": "TN",
         "lat": 46.06893511,
         "long": 11.12123097,
-        "totale_casi": 21323,
+        "totale_casi": 21520,
         "note": null,
-        "totale_casi_ieri": 21148,
-        "totale_nuovi_casi": 175
+        "totale_casi_ieri": 21323,
+        "totale_nuovi_casi": 197
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1284,13 +1284,13 @@
         "sigla_provincia": "AL",
         "lat": 44.91297351,
         "long": 8.615401155,
-        "totale_casi": 17181,
+        "totale_casi": 17281,
         "note": null,
-        "totale_casi_ieri": 17151,
-        "totale_nuovi_casi": 30
+        "totale_casi_ieri": 17181,
+        "totale_nuovi_casi": 100
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1299,13 +1299,13 @@
         "sigla_provincia": "AT",
         "lat": 44.89912921,
         "long": 8.204142547,
-        "totale_casi": 9700,
+        "totale_casi": 9800,
         "note": null,
-        "totale_casi_ieri": 9645,
-        "totale_nuovi_casi": 55
+        "totale_casi_ieri": 9700,
+        "totale_nuovi_casi": 100
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1314,13 +1314,13 @@
         "sigla_provincia": "BI",
         "lat": 45.5665112,
         "long": 8.054082167,
-        "totale_casi": 6735,
+        "totale_casi": 6796,
         "note": null,
-        "totale_casi_ieri": 6680,
-        "totale_nuovi_casi": 55
+        "totale_casi_ieri": 6735,
+        "totale_nuovi_casi": 61
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1329,13 +1329,13 @@
         "sigla_provincia": "CN",
         "lat": 44.39329625,
         "long": 7.551171632,
-        "totale_casi": 26870,
+        "totale_casi": 27009,
         "note": null,
-        "totale_casi_ieri": 26685,
-        "totale_nuovi_casi": 185
+        "totale_casi_ieri": 26870,
+        "totale_nuovi_casi": 139
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1344,13 +1344,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 1033,
+        "totale_casi": 1050,
         "note": null,
-        "totale_casi_ieri": 1032,
-        "totale_nuovi_casi": 1
+        "totale_casi_ieri": 1033,
+        "totale_nuovi_casi": 17
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1359,13 +1359,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 1621,
+        "totale_casi": 1631,
         "note": null,
-        "totale_casi_ieri": 1615,
-        "totale_nuovi_casi": 6
+        "totale_casi_ieri": 1621,
+        "totale_nuovi_casi": 10
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1374,13 +1374,13 @@
         "sigla_provincia": "NO",
         "lat": 45.44588506,
         "long": 8.621915884,
-        "totale_casi": 15261,
+        "totale_casi": 15299,
         "note": null,
-        "totale_casi_ieri": 15225,
-        "totale_nuovi_casi": 36
+        "totale_casi_ieri": 15261,
+        "totale_nuovi_casi": 38
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1389,13 +1389,13 @@
         "sigla_provincia": "TO",
         "lat": 45.0732745,
         "long": 7.680687483,
-        "totale_casi": 103027,
+        "totale_casi": 103512,
         "note": null,
-        "totale_casi_ieri": 102622,
-        "totale_nuovi_casi": 405
+        "totale_casi_ieri": 103027,
+        "totale_nuovi_casi": 485
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1404,13 +1404,13 @@
         "sigla_provincia": "VB",
         "lat": 45.9214455,
         "long": 8.551078753,
-        "totale_casi": 6563,
+        "totale_casi": 6612,
         "note": null,
-        "totale_casi_ieri": 6522,
-        "totale_nuovi_casi": 41
+        "totale_casi_ieri": 6563,
+        "totale_nuovi_casi": 49
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1419,13 +1419,13 @@
         "sigla_provincia": "VC",
         "lat": 45.32398135,
         "long": 8.423234312,
-        "totale_casi": 7424,
+        "totale_casi": 7471,
         "note": null,
-        "totale_casi_ieri": 7398,
-        "totale_nuovi_casi": 26
+        "totale_casi_ieri": 7424,
+        "totale_nuovi_casi": 47
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1434,13 +1434,13 @@
         "sigla_provincia": "BA",
         "lat": 41.12559576,
         "long": 16.86736689,
-        "totale_casi": 33847,
+        "totale_casi": 34429,
         "note": null,
-        "totale_casi_ieri": 33560,
-        "totale_nuovi_casi": 287
+        "totale_casi_ieri": 33847,
+        "totale_nuovi_casi": 582
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1449,13 +1449,13 @@
         "sigla_provincia": "BT",
         "lat": 41.22705039,
         "long": 16.29520432,
-        "totale_casi": 10086,
+        "totale_casi": 10274,
         "note": null,
-        "totale_casi_ieri": 9960,
-        "totale_nuovi_casi": 126
+        "totale_casi_ieri": 10086,
+        "totale_nuovi_casi": 188
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1464,13 +1464,13 @@
         "sigla_provincia": "BR",
         "lat": 40.63848545,
         "long": 17.94601575,
-        "totale_casi": 6355,
+        "totale_casi": 6393,
         "note": null,
-        "totale_casi_ieri": 6281,
-        "totale_nuovi_casi": 74
+        "totale_casi_ieri": 6355,
+        "totale_nuovi_casi": 38
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1479,13 +1479,13 @@
         "sigla_provincia": "FG",
         "lat": 41.46226865,
         "long": 15.54305094,
-        "totale_casi": 19462,
+        "totale_casi": 19718,
         "note": null,
-        "totale_casi_ieri": 19381,
-        "totale_nuovi_casi": 81
+        "totale_casi_ieri": 19462,
+        "totale_nuovi_casi": 256
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1494,13 +1494,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 511,
+        "totale_casi": 516,
         "note": null,
-        "totale_casi_ieri": 501,
-        "totale_nuovi_casi": 10
+        "totale_casi_ieri": 511,
+        "totale_nuovi_casi": 5
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1509,13 +1509,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 90,
+        "totale_casi": 95,
         "note": null,
-        "totale_casi_ieri": 84,
-        "totale_nuovi_casi": 6
+        "totale_casi_ieri": 90,
+        "totale_nuovi_casi": 5
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1524,13 +1524,13 @@
         "sigla_provincia": "LE",
         "lat": 40.35354285,
         "long": 18.1718973,
-        "totale_casi": 6840,
+        "totale_casi": 6988,
         "note": null,
-        "totale_casi_ieri": 6781,
-        "totale_nuovi_casi": 59
+        "totale_casi_ieri": 6840,
+        "totale_nuovi_casi": 148
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1539,13 +1539,13 @@
         "sigla_provincia": "TA",
         "lat": 40.47354739,
         "long": 17.23237181,
-        "totale_casi": 10642,
+        "totale_casi": 10890,
         "note": null,
-        "totale_casi_ieri": 10536,
-        "totale_nuovi_casi": 106
+        "totale_casi_ieri": 10642,
+        "totale_nuovi_casi": 248
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1554,13 +1554,13 @@
         "sigla_provincia": "CA",
         "lat": 39.21531192,
         "long": 9.110616306,
-        "totale_casi": 6821,
+        "totale_casi": 6882,
         "note": null,
-        "totale_casi_ieri": 6775,
-        "totale_nuovi_casi": 46
+        "totale_casi_ieri": 6821,
+        "totale_nuovi_casi": 61
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1575,7 +1575,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1590,7 +1590,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1599,13 +1599,13 @@
         "sigla_provincia": "NU",
         "lat": 40.32318834,
         "long": 9.330296393,
-        "totale_casi": 6044,
+        "totale_casi": 6138,
         "note": null,
         "totale_casi_ieri": 6044,
-        "totale_nuovi_casi": 0
+        "totale_nuovi_casi": 94
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1614,13 +1614,13 @@
         "sigla_provincia": "OR",
         "lat": 39.90381075,
         "long": 8.591183151,
-        "totale_casi": 2401,
+        "totale_casi": 2420,
         "note": null,
-        "totale_casi_ieri": 2388,
-        "totale_nuovi_casi": 13
+        "totale_casi_ieri": 2401,
+        "totale_nuovi_casi": 19
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1629,13 +1629,13 @@
         "sigla_provincia": "SS",
         "lat": 40.72667657,
         "long": 8.559667131,
-        "totale_casi": 10206,
+        "totale_casi": 10282,
         "note": null,
-        "totale_casi_ieri": 10171,
-        "totale_nuovi_casi": 35
+        "totale_casi_ieri": 10206,
+        "totale_nuovi_casi": 76
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1644,13 +1644,13 @@
         "sigla_provincia": "SU",
         "lat": 39.16641462,
         "long": 8.526242676,
-        "totale_casi": 4945,
+        "totale_casi": 5023,
         "note": null,
-        "totale_casi_ieri": 4923,
-        "totale_nuovi_casi": 22
+        "totale_casi_ieri": 4945,
+        "totale_nuovi_casi": 78
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1659,13 +1659,13 @@
         "sigla_provincia": "AG",
         "lat": 37.30971088,
         "long": 13.5845749,
-        "totale_casi": 3781,
+        "totale_casi": 3793,
         "note": null,
-        "totale_casi_ieri": 3755,
-        "totale_nuovi_casi": 26
+        "totale_casi_ieri": 3781,
+        "totale_nuovi_casi": 12
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1674,13 +1674,13 @@
         "sigla_provincia": "CL",
         "lat": 37.49213171,
         "long": 14.06184973,
-        "totale_casi": 3817,
+        "totale_casi": 3874,
         "note": null,
-        "totale_casi_ieri": 3760,
+        "totale_casi_ieri": 3817,
         "totale_nuovi_casi": 57
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1689,13 +1689,13 @@
         "sigla_provincia": "CT",
         "lat": 37.50287803,
         "long": 15.08704691,
-        "totale_casi": 27009,
+        "totale_casi": 27260,
         "note": null,
-        "totale_casi_ieri": 26824,
-        "totale_nuovi_casi": 185
+        "totale_casi_ieri": 27009,
+        "totale_nuovi_casi": 251
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1704,13 +1704,13 @@
         "sigla_provincia": "EN",
         "lat": 37.56705701,
         "long": 14.27909375,
-        "totale_casi": 3252,
+        "totale_casi": 3272,
         "note": null,
-        "totale_casi_ieri": 3217,
-        "totale_nuovi_casi": 35
+        "totale_casi_ieri": 3252,
+        "totale_nuovi_casi": 20
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1725,7 +1725,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1740,7 +1740,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1749,13 +1749,13 @@
         "sigla_provincia": "ME",
         "lat": 38.19395845,
         "long": 15.55572302,
-        "totale_casi": 10346,
+        "totale_casi": 10578,
         "note": null,
-        "totale_casi_ieri": 10059,
-        "totale_nuovi_casi": 287
+        "totale_casi_ieri": 10346,
+        "totale_nuovi_casi": 232
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1764,13 +1764,13 @@
         "sigla_provincia": "PA",
         "lat": 38.11569725,
         "long": 13.3623567,
-        "totale_casi": 25060,
+        "totale_casi": 25352,
         "note": null,
-        "totale_casi_ieri": 24835,
-        "totale_nuovi_casi": 225
+        "totale_casi_ieri": 25060,
+        "totale_nuovi_casi": 292
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1779,13 +1779,13 @@
         "sigla_provincia": "RG",
         "lat": 36.92509198,
         "long": 14.73069891,
-        "totale_casi": 6804,
+        "totale_casi": 6850,
         "note": null,
-        "totale_casi_ieri": 6771,
-        "totale_nuovi_casi": 33
+        "totale_casi_ieri": 6804,
+        "totale_nuovi_casi": 46
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1794,13 +1794,13 @@
         "sigla_provincia": "SR",
         "lat": 37.05991687,
         "long": 15.29333182,
-        "totale_casi": 5325,
+        "totale_casi": 5423,
         "note": null,
-        "totale_casi_ieri": 5283,
-        "totale_nuovi_casi": 42
+        "totale_casi_ieri": 5325,
+        "totale_nuovi_casi": 98
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1809,13 +1809,13 @@
         "sigla_provincia": "TP",
         "lat": 38.01850065,
         "long": 12.51365684,
-        "totale_casi": 5867,
+        "totale_casi": 5943,
         "note": null,
-        "totale_casi_ieri": 5762,
-        "totale_nuovi_casi": 105
+        "totale_casi_ieri": 5867,
+        "totale_nuovi_casi": 76
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1824,13 +1824,13 @@
         "sigla_provincia": "AR",
         "lat": 43.46642752,
         "long": 11.88228844,
-        "totale_casi": 10506,
+        "totale_casi": 10562,
         "note": null,
-        "totale_casi_ieri": 10474,
-        "totale_nuovi_casi": 32
+        "totale_casi_ieri": 10506,
+        "totale_nuovi_casi": 56
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1839,13 +1839,13 @@
         "sigla_provincia": "FI",
         "lat": 43.76923077,
         "long": 11.25588885,
-        "totale_casi": 33234,
+        "totale_casi": 33365,
         "note": null,
-        "totale_casi_ieri": 33173,
-        "totale_nuovi_casi": 61
+        "totale_casi_ieri": 33234,
+        "totale_nuovi_casi": 131
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1860,7 +1860,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1869,13 +1869,13 @@
         "sigla_provincia": "GR",
         "lat": 42.76026758,
         "long": 11.11356398,
-        "totale_casi": 4154,
+        "totale_casi": 4175,
         "note": null,
-        "totale_casi_ieri": 4147,
-        "totale_nuovi_casi": 7
+        "totale_casi_ieri": 4154,
+        "totale_nuovi_casi": 21
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1890,7 +1890,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1899,13 +1899,13 @@
         "sigla_provincia": "LI",
         "lat": 43.55234873,
         "long": 10.3086781,
-        "totale_casi": 8539,
+        "totale_casi": 8582,
         "note": null,
-        "totale_casi_ieri": 8519,
-        "totale_nuovi_casi": 20
+        "totale_casi_ieri": 8539,
+        "totale_nuovi_casi": 43
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1914,13 +1914,13 @@
         "sigla_provincia": "LU",
         "lat": 43.84432283,
         "long": 10.50151366,
-        "totale_casi": 12408,
+        "totale_casi": 12465,
         "note": null,
-        "totale_casi_ieri": 12351,
+        "totale_casi_ieri": 12408,
         "totale_nuovi_casi": 57
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1929,13 +1929,13 @@
         "sigla_provincia": "MS",
         "lat": 44.03674425,
         "long": 10.14173829,
-        "totale_casi": 7618,
+        "totale_casi": 7630,
         "note": null,
-        "totale_casi_ieri": 7611,
-        "totale_nuovi_casi": 7
+        "totale_casi_ieri": 7618,
+        "totale_nuovi_casi": 12
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1944,13 +1944,13 @@
         "sigla_provincia": "PI",
         "lat": 43.71553206,
         "long": 10.40127259,
-        "totale_casi": 16602,
+        "totale_casi": 16661,
         "note": null,
-        "totale_casi_ieri": 16576,
-        "totale_nuovi_casi": 26
+        "totale_casi_ieri": 16602,
+        "totale_nuovi_casi": 59
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1959,13 +1959,13 @@
         "sigla_provincia": "PT",
         "lat": 43.933465,
         "long": 10.91734146,
-        "totale_casi": 10403,
+        "totale_casi": 10413,
         "note": null,
-        "totale_casi_ieri": 10385,
-        "totale_nuovi_casi": 18
+        "totale_casi_ieri": 10403,
+        "totale_nuovi_casi": 10
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1974,13 +1974,13 @@
         "sigla_provincia": "PO",
         "lat": 43.88062274,
         "long": 11.09703315,
-        "totale_casi": 10335,
+        "totale_casi": 10355,
         "note": null,
-        "totale_casi_ieri": 10316,
-        "totale_nuovi_casi": 19
+        "totale_casi_ieri": 10335,
+        "totale_nuovi_casi": 20
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1989,13 +1989,13 @@
         "sigla_provincia": "SI",
         "lat": 43.31816374,
         "long": 11.33190988,
-        "totale_casi": 4882,
+        "totale_casi": 4933,
         "note": null,
-        "totale_casi_ieri": 4858,
-        "totale_nuovi_casi": 24
+        "totale_casi_ieri": 4882,
+        "totale_nuovi_casi": 51
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -2004,13 +2004,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 1171,
+        "totale_casi": 1190,
         "note": null,
-        "totale_casi_ieri": 1188,
-        "totale_nuovi_casi": -17
+        "totale_casi_ieri": 1171,
+        "totale_nuovi_casi": 19
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -2025,7 +2025,7 @@
         "totale_nuovi_casi": 0
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -2034,13 +2034,13 @@
         "sigla_provincia": "PG",
         "lat": 43.10675841,
         "long": 12.38824698,
-        "totale_casi": 20602,
+        "totale_casi": 20838,
         "note": null,
-        "totale_casi_ieri": 20455,
-        "totale_nuovi_casi": 147
+        "totale_casi_ieri": 20602,
+        "totale_nuovi_casi": 236
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -2049,13 +2049,13 @@
         "sigla_provincia": "TR",
         "lat": 42.56071258,
         "long": 12.6466875,
-        "totale_casi": 6540,
+        "totale_casi": 6632,
         "note": null,
-        "totale_casi_ieri": 6509,
-        "totale_nuovi_casi": 31
+        "totale_casi_ieri": 6540,
+        "totale_nuovi_casi": 92
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -2064,13 +2064,13 @@
         "sigla_provincia": "AO",
         "lat": 45.73750286,
         "long": 7.320149366,
-        "totale_casi": 6982,
+        "totale_casi": 6981,
         "note": null,
-        "totale_casi_ieri": 6994,
-        "totale_nuovi_casi": -12
+        "totale_casi_ieri": 6982,
+        "totale_nuovi_casi": -1
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -2079,13 +2079,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 236,
+        "totale_casi": 237,
         "note": null,
         "totale_casi_ieri": 236,
-        "totale_nuovi_casi": 0
+        "totale_nuovi_casi": 1
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -2094,13 +2094,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 12,
+        "totale_casi": 26,
         "note": null,
         "totale_casi_ieri": 12,
-        "totale_nuovi_casi": 0
+        "totale_nuovi_casi": 14
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2109,13 +2109,13 @@
         "sigla_provincia": "BL",
         "lat": 46.13837528,
         "long": 12.21704167,
-        "totale_casi": 14280,
+        "totale_casi": 14438,
         "note": null,
-        "totale_casi_ieri": 14177,
-        "totale_nuovi_casi": 103
+        "totale_casi_ieri": 14280,
+        "totale_nuovi_casi": 158
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2124,13 +2124,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 3470,
+        "totale_casi": 3490,
         "note": null,
-        "totale_casi_ieri": 3454,
-        "totale_nuovi_casi": 16
+        "totale_casi_ieri": 3470,
+        "totale_nuovi_casi": 20
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2139,13 +2139,13 @@
         "sigla_provincia": null,
         "lat": null,
         "long": null,
-        "totale_casi": 547,
+        "totale_casi": 546,
         "note": null,
         "totale_casi_ieri": 547,
-        "totale_nuovi_casi": 0
+        "totale_nuovi_casi": -1
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2154,13 +2154,13 @@
         "sigla_provincia": "PD",
         "lat": 45.40692987,
         "long": 11.87608718,
-        "totale_casi": 45071,
+        "totale_casi": 45587,
         "note": null,
-        "totale_casi_ieri": 44502,
-        "totale_nuovi_casi": 569
+        "totale_casi_ieri": 45071,
+        "totale_nuovi_casi": 516
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2169,13 +2169,13 @@
         "sigla_provincia": "RO",
         "lat": 45.07107289,
         "long": 11.79007,
-        "totale_casi": 7225,
+        "totale_casi": 7340,
         "note": null,
-        "totale_casi_ieri": 7115,
-        "totale_nuovi_casi": 110
+        "totale_casi_ieri": 7225,
+        "totale_nuovi_casi": 115
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2184,13 +2184,13 @@
         "sigla_provincia": "TV",
         "lat": 45.66754571,
         "long": 12.24507363,
-        "totale_casi": 48090,
+        "totale_casi": 48582,
         "note": null,
-        "totale_casi_ieri": 47689,
-        "totale_nuovi_casi": 401
+        "totale_casi_ieri": 48090,
+        "totale_nuovi_casi": 492
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2199,13 +2199,13 @@
         "sigla_provincia": "VE",
         "lat": 45.43490485,
         "long": 12.33845213,
-        "totale_casi": 37585,
+        "totale_casi": 38173,
         "note": null,
-        "totale_casi_ieri": 37086,
-        "totale_nuovi_casi": 499
+        "totale_casi_ieri": 37585,
+        "totale_nuovi_casi": 588
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2214,13 +2214,13 @@
         "sigla_provincia": "VR",
         "lat": 45.43839046,
         "long": 10.99352685,
-        "totale_casi": 47991,
+        "totale_casi": 48574,
         "note": null,
-        "totale_casi_ieri": 47413,
-        "totale_nuovi_casi": 578
+        "totale_casi_ieri": 47991,
+        "totale_nuovi_casi": 583
     },
     {
-        "data": "2020-12-29T17:00:00",
+        "data": "2020-12-30T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2229,9 +2229,9 @@
         "sigla_provincia": "VI",
         "lat": 45.547497,
         "long": 11.54597109,
-        "totale_casi": 41830,
+        "totale_casi": 42345,
         "note": null,
-        "totale_casi_ieri": 41451,
-        "totale_nuovi_casi": 379
+        "totale_casi_ieri": 41830,
+        "totale_nuovi_casi": 515
     }
 ]
