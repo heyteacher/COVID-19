@@ -16095,7 +16095,7 @@
         "casi_da_screening": null,
         "totale_casi": 3607083,
         "tamponi": 50258742,
-        "casi_testati": 23065299,
+        "casi_testati": 23069406,
         "note": null,
         "ingressi_terapia_intensiva": 244,
         "note_test": null,
@@ -16117,7 +16117,7 @@
         "tamponi_ieri": 49902657,
         "nuovi_tamponi": 356085,
         "casi_testati_ieri": 22964290,
-        "nuovi_casi_testati": 101009
+        "nuovi_casi_testati": 105116
     },
     {
         "data": "2021-04-02T17:00:00",
@@ -16156,8 +16156,8 @@
         "nuovi_terapia_intensiva": 23,
         "tamponi_ieri": 50258742,
         "nuovi_tamponi": 331154,
-        "casi_testati_ieri": 23065299,
-        "nuovi_casi_testati": 104165
+        "casi_testati_ieri": 23069406,
+        "nuovi_casi_testati": 100058
     },
     {
         "data": "2021-04-03T17:00:00",
@@ -16318,5 +16318,45 @@
         "nuovi_tamponi": 112962,
         "casi_testati_ieri": 23394151,
         "nuovi_casi_testati": 31142
+    },
+    {
+        "data": "2021-04-07T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 29316,
+        "terapia_intensiva": 3683,
+        "totale_ospedalizzati": 32999,
+        "isolamento_domiciliare": 514838,
+        "totale_positivi": 547837,
+        "variazione_totale_positivi": -7868,
+        "nuovi_positivi": 13708,
+        "dimessi_guariti": 3040182,
+        "deceduti": 112374,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
+        "totale_casi": 3700393,
+        "tamponi": 51755739,
+        "casi_testati": 23517311,
+        "note": null,
+        "ingressi_terapia_intensiva": 276,
+        "note_test": null,
+        "note_casi": null,
+        "totale_positivi_test_molecolare": 3579829,
+        "totale_positivi_test_antigenico_rapido": 120564,
+        "tamponi_test_molecolare": 41346000,
+        "tamponi_test_antigenico_rapido": 10409739,
+        "totale_casi_ieri": 3686707,
+        "totale_nuovi_casi": 13686,
+        "dimessi_guariti_ieri": 3019255,
+        "nuovi_dimessi_guariti": 20927,
+        "ricoverati_con_sintomi_ieri": 29337,
+        "nuovi_ricoverati_con_sintomi": -21,
+        "deceduti_ieri": 111747,
+        "nuovi_deceduti": 627,
+        "terapia_intensiva_ieri": 3743,
+        "nuovi_terapia_intensiva": -60,
+        "tamponi_ieri": 51415800,
+        "nuovi_tamponi": 339939,
+        "casi_testati_ieri": 23425293,
+        "nuovi_casi_testati": 92018
     }
 ]
